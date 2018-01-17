@@ -1,0 +1,18 @@
+# Promotion
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isa/private.git;Equipe A
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isb/private.git;Equipe B
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isc/private.git;Equipe C
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isd/private.git;Equipe D
+https://mosser@mjollnir.unice.fr/bitbucket/scm/ise/private.git;Equipe E
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isf/private.git;Equipe F
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isg/private.git;Equipe G
+https://mosser@mjollnir.unice.fr/bitbucket/scm/ish/private.git;Equipe H
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isi/private.git;Equipe I
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isj/private.git;Equipe J
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isk/private.git;Equipe K
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isl/private.git;Equipe L
+https://mosser@mjollnir.unice.fr/bitbucket/scm/ism/private.git;Equipe M
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isn/private.git;Equipe N
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iso/private.git;Equipe O
+https://mosser@mjollnir.unice.fr/bitbucket/scm/isp/private.git;Equipe P
+## That's all folks
