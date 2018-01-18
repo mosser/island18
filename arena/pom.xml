@@ -42,98 +42,108 @@
       <version>${scala.version}</version>
     </dependency>
 
-      <!-- ########## -->
-      <!-- # Groups # -->
-      <!-- ########## -->
+    <!-- ############## -->
+    <!-- # References # -->
+    <!-- ############## -->
 
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isx</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
+    <dependency> <!-- Champion (IAAD 2017) -->
+      <groupId>fr.unice.polytech.3a.qgl</groupId>
+      <artifactId>iaad</artifactId>
+      <version>0.1-SNAPSHOT</version>
+    </dependency>
 
-      <!--
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isa</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isb</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isc</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isd</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>ise</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isf</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isg</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>ish</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isi</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isj</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isk</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isl</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>ism</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isn</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>iso</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>isp</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-    -->
+    <dependency> <!-- MVP: says stop -->
+      <groupId>fr.unice.polytech.3a.qgl</groupId>
+      <artifactId>isx</artifactId>
+      <version>0.1-SNAPSHOT</version>
+    </dependency>
+
+    <!-- ########## -->
+    <!-- # Groups # -->
+    <!-- ########## -->
+
+    <!--
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isa</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isb</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isc</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isd</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>ise</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isf</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isg</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>ish</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isi</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isj</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isk</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isl</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>ism</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isn</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>iso</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isp</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+  -->
 
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>

@@ -23,20 +23,20 @@
     "budget": 30000
   },
   "part": "Engine",
-  "time": 1516227186436,
+  "time": 1516301699849,
   "meth": "initialize"
 },{
   "data": {"action": "stop"},
   "part": "Explorer",
-  "time": 1516227186944,
+  "time": 1516301699849,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 4,
+    "cost": 2,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1516227186965,
+  "time": 1516301699849,
   "meth": "takeDecision"
 }]
