@@ -1,6 +1,7 @@
 ## Starting a Run with the following players on island week03
   - CHAMPION, MVP
 
+```
 12:29:06.712 Island/Board: [GameBoardBuilder] Starting GameBoard building process
 12:29:06.746 Island/Board: [GameBoardBuilder] Binding faces to game tiles
 12:29:10.970 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
@@ -10,6 +11,7 @@
 12:29:11.308 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
 12:29:11.556 Island/Board: [GameBoardBuilder] Introducing Points of Interest
 12:29:11.587 Island/Board: [GameBoardBuilder] GameBoard building process ended
+```
 
 ## Island Map information
   - Map Size:  1600x1600
