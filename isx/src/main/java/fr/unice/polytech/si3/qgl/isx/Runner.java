@@ -22,7 +22,7 @@ public class Runner {
       run(Explorer.class)
               .exploring(mapLocation.toFile())
               .withName("isx")
-              .withSeed(0x161D552A4A22E2F1L)
+              .withSeed(0x161D552A4A22E2A1L)
               .startingAt(159, 159, "NORTH")
               .backBefore(30000)
               .withCrew(15)
