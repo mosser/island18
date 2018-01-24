@@ -48,7 +48,7 @@
 
     <dependency> <!-- Champion (IAAD 2017) -->
       <groupId>fr.unice.polytech.3a.qgl</groupId>
-      <artifactId>iaad</artifactId>
+      <artifactId>champion</artifactId>
       <version>0.1-SNAPSHOT</version>
     </dependency>
 
