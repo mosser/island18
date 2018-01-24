@@ -62,7 +62,7 @@
     <!-- # Groups # -->
     <!-- ########## -->
 
-    <!--
+
     <dependency>
         <groupId>fr.unice.polytech.3a.qgl</groupId>
         <artifactId>isa</artifactId>
@@ -78,6 +78,7 @@
         <artifactId>isc</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
+    <!--
     <dependency>
         <groupId>fr.unice.polytech.3a.qgl</groupId>
         <artifactId>isd</artifactId>
@@ -88,6 +89,7 @@
         <artifactId>ise</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
+    -->
     <dependency>
         <groupId>fr.unice.polytech.3a.qgl</groupId>
         <artifactId>isf</artifactId>
@@ -98,6 +100,7 @@
         <artifactId>isg</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
+    <!--
     <dependency>
         <groupId>fr.unice.polytech.3a.qgl</groupId>
         <artifactId>ish</artifactId>
@@ -118,21 +121,25 @@
         <artifactId>isk</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
+    -->
     <dependency>
         <groupId>fr.unice.polytech.3a.qgl</groupId>
         <artifactId>isl</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
+    <!--
     <dependency>
         <groupId>fr.unice.polytech.3a.qgl</groupId>
         <artifactId>ism</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
+    -->
     <dependency>
         <groupId>fr.unice.polytech.3a.qgl</groupId>
         <artifactId>isn</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
+    <!--
     <dependency>
         <groupId>fr.unice.polytech.3a.qgl</groupId>
         <artifactId>iso</artifactId>
