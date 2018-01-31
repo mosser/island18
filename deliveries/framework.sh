@@ -25,8 +25,20 @@ function checkout_tag()  # $1 is the expected tag
 function maven() # $1 is maven goal
 {
     echo -ne "# Building using Maven [$1]: "
-    mvn $1 > /dev/null 2> /dev/null
-    if [ "$?" = "0" ]; then echo "OK"; else ERROR=1 ; echo "FAILURE"; fi
+    gtimeout 30 mvn $1 > /dev/null 2> /dev/null
+    STATUS=$?
+    if [ "$STATUS" = "0" ]
+    then
+	echo "OK"
+    else
+	ERROR=1
+	if [ "$STATUS" = "124" ]
+	then
+	    echo "TIMEOUT (compile time > 30s)"
+	else
+	    echo "FAILURE"
+	fi
+    fi
 }
 
 function build_git_stats() # $1 is project's id

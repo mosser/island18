@@ -7,47 +7,47 @@ source ./framework.sh
 
 TAG="week05"
 
-function valid_env() # $1 is project's id.
+function build()
 {
-    # POM
-    xml_key_value pom.xml groupId fr.unice.polytech.3a.qgl
-    xml_key_value pom.xml artifactId $1
-    # Bot
-    PACKAGE=./src/main/java/fr/unice/polytech/si3/qgl/$1
-    exists_dir $PACKAGE
+    maven    "clean package"
     if [ "$ERROR" = "1" ]
     then
-	echo "## Abort [team package not found]"
+	echo "## Abort [project does not build]"
     else
-	exists_file $PACKAGE/Explorer.java
-	if [ "$ERROR" = "1" ]
-	then
-	    echo "## Abort [team player not found]"
-	else
-	    echo "## \o/ Environment OK, will run the championship \o/"
-	fi
+	echo "## \o/ Delivery OK \o/"
     fi
     ERROR=0
 }
 
-function handle_repository() # $1 is project's id.
+function check_env()
 {
-    checkout_tag      $TAG
+    git_tag_time  $TAG
+    xml_key_value pom.xml groupId fr.unice.polytech.3a.qgl
+    xml_key_value pom.xml artifactId $1
+    xml_key_value pom.xml version 0.1-SNAPSHOT
+    PACKAGE=./src/main/java/fr/unice/polytech/si3/qgl/$1
+    exists_dir $PACKAGE
+    exists_file $PACKAGE/Explorer.java
+    if [ "$ERROR" = "1" ]
+    then
+	echo "## Abort [bad environment]"
+    else
+	build $1
+    fi
+    ERROR=0
+}
+
+function handle_repository()
+{
+    checkout_tag  $TAG
     if [ "$ERROR" = "1" ]
     then
 	echo "## Abort [missing tag]"
     else
-	git_tag_time  $TAG
-	maven    "clean package"
-        if [ "$ERROR" = "1" ]
-	then
-	    echo "## Abort [project does not build]"
-	else
-	    echo "## \o/ Delivery OK \o/"
-	    valid_env $1
-	fi
+	check_env $1
     fi
     ERROR=0
 }
+
 
 main

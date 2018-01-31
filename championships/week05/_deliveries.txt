@@ -1,4 +1,4 @@
-#  Started at :2018-01-31 19:00:27
+#  Started at :2018-01-31 19:46:36
 
 
 ####
@@ -8,13 +8,13 @@
 # Opening project isa
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 31 15:24:36 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [isa]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isa]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isa/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
 # Leaving project isa
 
 ####
@@ -24,7 +24,12 @@
 # Opening project isb
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 31 18:30:42 2018 +0100
-# Building using Maven [clean package]: FAILURE
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isb]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isb]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isb/Explorer.java]: OK
+# Building using Maven [clean package]: TIMEOUT (compile time > 30s)
 ## Abort [project does not build]
 # Leaving project isb
 
@@ -35,13 +40,13 @@
 # Opening project isc
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 31 16:39:41 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [isc]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isc]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isc/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
 # Leaving project isc
 
 ####
@@ -51,13 +56,13 @@
 # Opening project isd
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 31 18:51:47 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [isd]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isd]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isd/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
 # Leaving project isd
 
 ####
@@ -67,13 +72,12 @@
 # Opening project ise
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 31 16:36:12 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [ise]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: FAILURE
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ise]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ise/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+## Abort [bad environment]
 # Leaving project ise
 
 ####
@@ -83,13 +87,13 @@
 # Opening project isf
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 31 17:01:52 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [isf]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isf]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isf/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
 # Leaving project isf
 
 ####
@@ -99,13 +103,13 @@
 # Opening project isg
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Tue Jan 23 17:28:54 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [isg]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isg]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isg/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
 # Leaving project isg
 
 ####
@@ -115,13 +119,13 @@
 # Opening project ish
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 31 17:11:01 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [ish]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ish]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ish/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
 # Leaving project ish
 
 ####
@@ -131,13 +135,13 @@
 # Opening project isi
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 31 18:28:16 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [isi]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isi]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isi/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
 # Leaving project isi
 
 ####
@@ -147,13 +151,12 @@
 # Opening project isj
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Tue Jan 30 17:14:52 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [isj]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: FAILURE
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isj]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isj/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+## Abort [bad environment]
 # Leaving project isj
 
 ####
@@ -161,8 +164,14 @@
 ####
 # Cloning project from remote repository: OK
 # Opening project isk
-# Checking out tag [week05]: FAILURE
-## Abort [missing tag]
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Wed Jan 31 18:44:20 2018 +0100
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: FAILURE
+# pom.xml/artifactId == [isk]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isk]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isk/Explorer.java]: OK
+## Abort [bad environment]
 # Leaving project isk
 
 ####
@@ -172,13 +181,13 @@
 # Opening project isl
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 31 18:30:23 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [isl]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isl]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isl/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
 # Leaving project isl
 
 ####
@@ -188,13 +197,13 @@
 # Opening project ism
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 31 17:12:26 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [ism]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ism]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ism/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
 # Leaving project ism
 
 ####
@@ -204,13 +213,13 @@
 # Opening project isn
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 24 18:47:12 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [isn]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isn]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isn/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
 # Leaving project isn
 
 ####
@@ -220,13 +229,13 @@
 # Opening project iso
 # Checking out tag [week05]: OK
 # Git stamp: Date:   Wed Jan 31 18:31:16 2018 +0100
-# Building using Maven [clean package]: OK
-## \o/ Delivery OK \o/
 # pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
 # pom.xml/artifactId == [iso]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iso]: OK
 # Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iso/Explorer.java]: OK
-## \o/ Environment OK, will run the championship \o/
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
 # Leaving project iso
 
 ####
@@ -238,5 +247,4 @@
 ## Abort [missing tag]
 # Leaving project isp
 
-#  Ended at :2018-01-31 19:03:29
-
+#  Ended at :2018-01-31 19:48:33
