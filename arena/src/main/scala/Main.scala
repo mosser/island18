@@ -6,6 +6,7 @@ object Main extends App {
     // Week03 run
     // Week04 run
     // Week05 run
-    Week06 run
+    // Week06 run
+    Week06bis run
 
 }
