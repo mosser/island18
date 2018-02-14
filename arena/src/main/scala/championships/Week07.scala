@@ -20,6 +20,6 @@ object Week07 extends Run with SI3 {
   override val plane: Plane = Plane(1, 1, Directions.SOUTH)
   override val objectives: Set[(Resource, Int)] = Set((WOOD, 3000), (QUARTZ, 100))
 
-  override def players:  Map[String, Class[_ <: IExplorerRaid]] = refs // all - "isj" - "isg" - "isp"
+  override def players:  Map[String, Class[_ <: IExplorerRaid]] = all - "isi" - "isp"
 
 }

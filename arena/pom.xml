@@ -110,14 +110,11 @@
         <artifactId>isi</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
-      <!--
     <dependency>
         <groupId>fr.unice.polytech.3a.qgl</groupId>
         <artifactId>isj</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
-    -->
-
     <dependency>
         <groupId>fr.unice.polytech.3a.qgl</groupId>
         <artifactId>isk</artifactId>
@@ -146,11 +143,11 @@
     </dependency>
     <!--
      <dependency>
-         <groupId>fr.unice.polytech.3a.qgl</groupId>
-         <artifactId>isp</artifactId>
-         <version>0.1-SNAPSHOT</version>
-     </dependency>
-   -->
+        <groupId>fr.unice.polytech.3a.qgl</groupId>
+        <artifactId>isp</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </dependency>
+    -->
 
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>
