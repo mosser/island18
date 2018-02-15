@@ -20,7 +20,7 @@ trait SI3 extends Teams {
     "isg" ->  classOf[fr.unice.polytech.si3.qgl.isg.Explorer],
     "ish" ->  classOf[fr.unice.polytech.si3.qgl.ish.Explorer],
     "isi" ->  classOf[fr.unice.polytech.si3.qgl.isi.Explorer],
-    //"isj" ->  classOf[fr.unice.polytech.si3.qgl.isj.Explorer],
+    "isj" ->  classOf[fr.unice.polytech.si3.qgl.isj.Explorer],
     "isk" ->  classOf[fr.unice.polytech.si3.qgl.isk.Explorer],
     "isl" ->  classOf[fr.unice.polytech.si3.qgl.isl.Explorer],
     "ism" ->  classOf[fr.unice.polytech.si3.qgl.ism.Explorer],

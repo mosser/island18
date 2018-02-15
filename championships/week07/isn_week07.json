@@ -15,16 +15,16 @@
     "budget": 20000
   },
   "part": "Engine",
-  "time": 1518631817526,
+  "time": 1518682975154,
   "meth": "initialize"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1518631817532,
+  "time": 1518682975200,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 5,
+    "cost": 4,
     "extras": {
       "creeks": [],
       "biomes": ["OCEAN"],
@@ -33,7 +33,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1518631817532,
+  "time": 1518682975217,
   "meth": "takeDecision"
 },{
   "data": {
@@ -88,6 +88,6 @@
     "message": ["Futures timed out after [2000 milliseconds]"]
   },
   "part": "Explorer",
-  "time": 1518631819536,
+  "time": 1518682977221,
   "meth": "acknowledgeResults"
 }]

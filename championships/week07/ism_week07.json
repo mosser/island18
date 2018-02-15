@@ -15,12 +15,12 @@
     "budget": 20000
   },
   "part": "Engine",
-  "time": 1518631809858,
+  "time": 1518683022138,
   "meth": "initialize"
 },{
   "data": {"action": "scan"},
   "part": "Explorer",
-  "time": 1518631809865,
+  "time": 1518683022152,
   "meth": "takeDecision"
 },{
   "data": {
@@ -33,7 +33,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1518631809865,
+  "time": 1518683022152,
   "meth": "takeDecision"
 },{
   "data": {
@@ -41,7 +41,7 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1518631809867,
+  "time": 1518683022154,
   "meth": "takeDecision"
 },{
   "data": {
@@ -53,7 +53,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1518631809867,
+  "time": 1518683022154,
   "meth": "takeDecision"
 },{
   "data": {
@@ -61,11 +61,11 @@
     "parameters": {"direction": "E"}
   },
   "part": "Explorer",
-  "time": 1518631809868,
+  "time": 1518683022155,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 7,
+    "cost": 5,
     "extras": {
       "found": "OUT_OF_RANGE",
       "range": 52
@@ -73,7 +73,7 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1518631809868,
+  "time": 1518683022155,
   "meth": "takeDecision"
 },{
   "data": {
@@ -81,7 +81,7 @@
     "parameters": {"direction": "W"}
   },
   "part": "Explorer",
-  "time": 1518631809870,
+  "time": 1518683022157,
   "meth": "takeDecision"
 },{
   "data": {
@@ -134,6 +134,6 @@
     "message": ["requirement failed: Congrats, the plane is out of radio range..."]
   },
   "part": "Engine",
-  "time": 1518631809870,
+  "time": 1518683022157,
   "meth": "takeDecision"
 }]
