@@ -114,10 +114,10 @@
   - ISH: [C01], 21352 action points left
   - ISD: [C01], 21166 action points left
   - ISI: [C01], 20012 action points left
+  - ISC: [C01], 17759 action points left
   - ISA: [C01], 15819 action points left
   - ISO: [C02], 20256 action points left
   - ISJ: [C05], 24413 action points left
-  - ISC: [C09], 17759 action points left
   - MVP: [], 29998 action points left
   - ISB: [], 29997 action points left
   - ISE: [], 29163 action points left
