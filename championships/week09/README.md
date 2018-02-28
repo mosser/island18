@@ -116,13 +116,14 @@
   - ISG: [C01], 15867 action points left
   - ISC: [C01], 15213 action points left
   - ISF: [C01], 10903 action points left
-  - ISK: [C02], 24711 action points left
   - ISI: [C02], 14896 action points left
   - ISJ: [C04], 14937 action points left
   - ISM: [C04], 13449 action points left          
   - MVP: [], 29996 action points left
   - ISB: [], 29986 action points left
   - ISD: [], 23022 action points left
+
+  - ISK: [C02], 24711 action points left (_disqualified_)
 
 # Successful simulations
 
