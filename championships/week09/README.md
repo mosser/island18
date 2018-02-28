@@ -122,8 +122,7 @@
   - MVP: [], 29996 action points left
   - ISB: [], 29986 action points left
   - ISD: [], 23022 action points left
-
-  - ISK: [C02], 24711 action points left (_disqualified_)
+  - (_Disqualified_) ISK: [C02], 24711 action points left 
 
 # Successful simulations
 
