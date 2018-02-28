@@ -1,0 +1,53 @@
+[{
+  "data": {
+    "heading": "S",
+    "men": 30,
+    "contracts": [
+      {
+        "amount": 200,
+        "resource": "QUARTZ"
+      },
+      {
+        "amount": 2,
+        "resource": "FLOWER"
+      },
+      {
+        "amount": 1000,
+        "resource": "PLANK"
+      },
+      {
+        "amount": 5000,
+        "resource": "WOOD"
+      }
+    ],
+    "budget": 30000
+  },
+  "part": "Engine",
+  "time": 1519841831465,
+  "meth": "initialize"
+},{
+  "data": {
+    "exception": ["IllegalArgumentException"],
+    "stacktrace": [[
+      "java.lang.Enum.valueOf(Enum.java:238)",
+      "fr.unice.polytech.si3.qgl.isa.island.PrimaryRessources.valueOf(PrimaryRessources.java:7)",
+      "fr.unice.polytech.si3.qgl.isa.Context.decodeurContrat(Context.java:62)",
+      "fr.unice.polytech.si3.qgl.isa.Context.initializeContext(Context.java:33)",
+      "fr.unice.polytech.si3.qgl.isa.Explorer.initialize(Explorer.java:31)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply$mcV$sp(Engine.scala:34)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply(Engine.scala:34)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply(Engine.scala:34)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24)",
+      "scala.concurrent.impl.ExecutionContextImpl$AdaptedForkJoinTask.exec(ExecutionContextImpl.scala:121)",
+      "scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)",
+      "scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)",
+      "scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)",
+      "scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)"
+    ]],
+    "message": ["No enum constant fr.unice.polytech.si3.qgl.isa.island.PrimaryRessources.PLANK"]
+  },
+  "part": "Explorer",
+  "time": 1519841831470,
+  "meth": "initialize"
+}]
