@@ -2,10 +2,10 @@
 source ./framework.sh
 
 ####
-## Week #09
+## Week #10
 ####
 
-TAG="week09"
+TAG="week10"
 
 function build()
 {
@@ -28,7 +28,7 @@ function check_env()
     PACKAGE=./src/main/java/fr/unice/polytech/si3/qgl/$1
     exists_dir $PACKAGE
     exists_file $PACKAGE/Explorer.java
-    exists_file journal.md
+    exists_file ./journal.md
     if [ "$ERROR" = "1" ]
     then
 	echo "## Abort [bad environment]"
