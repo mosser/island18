@@ -141,14 +141,11 @@
         <artifactId>iso</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
-    <!--
      <dependency>
         <groupId>fr.unice.polytech.3a.qgl</groupId>
         <artifactId>isp</artifactId>
         <version>0.1-SNAPSHOT</version>
     </dependency>
-    -->
-
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>
       <artifactId>log4j-api</artifactId>

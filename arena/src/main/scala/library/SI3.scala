@@ -25,8 +25,8 @@ trait SI3 extends Teams {
     "isl" ->  classOf[fr.unice.polytech.si3.qgl.isl.Explorer],
     "ism" ->  classOf[fr.unice.polytech.si3.qgl.ism.Explorer],
     "isn" ->  classOf[fr.unice.polytech.si3.qgl.isn.Explorer],
-    "iso" ->  classOf[fr.unice.polytech.si3.qgl.iso.Explorer]
-    //"isp" ->  classOf[fr.unice.polytech.si3.qgl.isp.Explorer]
+    "iso" ->  classOf[fr.unice.polytech.si3.qgl.iso.Explorer],
+    "isp" ->  classOf[fr.unice.polytech.si3.qgl.isp.Explorer]
   )
 
   def all:  Map[String, Class[_ <: IExplorerRaid]] = refs ++ teams
