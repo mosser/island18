@@ -1,8 +1,10 @@
 #!/bin/bash
 
+OPTS="-DoutputFormats=XML -DtimestampedReports=false -Dthreads=4"
+
 for team in is*
 do
     cd $team
-    mvn org.pitest:pitest-maven:mutationCoverage
+    mvn $OPTS org.pitest:pitest-maven:mutationCoverage
     cd ..
 done
