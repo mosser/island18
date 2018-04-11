@@ -1,0 +1,46 @@
+[{
+  "data": {
+    "heading": "N",
+    "men": 7,
+    "contracts": [
+      {
+        "amount": 5,
+        "resource": "RUM"
+      },
+      {
+        "amount": 7000,
+        "resource": "WOOD"
+      },
+      {
+        "amount": 20,
+        "resource": "QUARTZ"
+      },
+      {
+        "amount": 4,
+        "resource": "ORE"
+      },
+      {
+        "amount": 400,
+        "resource": "SUGAR_CANE"
+      }
+    ],
+    "budget": 15000
+  },
+  "part": "Engine",
+  "time": 1523468490779,
+  "meth": "initialize"
+},{
+  "data": {"action": "stop"},
+  "part": "Explorer",
+  "time": 1523468490780,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 2,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1523468490780,
+  "meth": "takeDecision"
+}]
