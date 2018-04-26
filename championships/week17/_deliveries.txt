@@ -1,0 +1,277 @@
+#  Started at :2018-04-26 09:01:00
+
+
+####
+## Handling Equipe A [isa]
+####
+# Cloning project from remote repository: OK
+# Opening project isa
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Thu Apr 26 03:29:27 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isa]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isa]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isa/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isa
+
+####
+## Handling Equipe B [isb]
+####
+# Cloning project from remote repository: OK
+# Opening project isb
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Thu Apr 26 00:33:56 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isb]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isb]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isb/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isb
+
+####
+## Handling Equipe C [isc]
+####
+# Cloning project from remote repository: OK
+# Opening project isc
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Wed Apr 25 22:57:08 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isc]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isc]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isc/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isc
+
+####
+## Handling Equipe D [isd]
+####
+# Cloning project from remote repository: OK
+# Opening project isd
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Wed Apr 25 19:08:29 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isd]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isd]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isd/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isd
+
+####
+## Handling Equipe E [ise]
+####
+# Cloning project from remote repository: OK
+# Opening project ise
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Tue Apr 24 22:08:23 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [ise]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ise]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ise/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project ise
+
+####
+## Handling Equipe F [isf]
+####
+# Cloning project from remote repository: OK
+# Opening project isf
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Wed Apr 25 21:07:53 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isf]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isf]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isf/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isf
+
+####
+## Handling Equipe G [isg]
+####
+# Cloning project from remote repository: OK
+# Opening project isg
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Wed Apr 25 23:53:54 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isg]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isg]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isg/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isg
+
+####
+## Handling Equipe H [ish]
+####
+# Cloning project from remote repository: OK
+# Opening project ish
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Wed Apr 25 22:16:13 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [ish]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ish]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ish/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project ish
+
+####
+## Handling Equipe I [isi]
+####
+# Cloning project from remote repository: OK
+# Opening project isi
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Wed Apr 25 19:28:01 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isi]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isi]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isi/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isi
+
+####
+## Handling Equipe J [isj]
+####
+# Cloning project from remote repository: OK
+# Opening project isj
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Wed Apr 18 17:12:08 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isj]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isj]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isj/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isj
+
+####
+## Handling Equipe K [isk]
+####
+# Cloning project from remote repository: OK
+# Opening project isk
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Thu Apr 26 08:26:43 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isk]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isk]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isk/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isk
+
+####
+## Handling Equipe L [isl]
+####
+# Cloning project from remote repository: OK
+# Opening project isl
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Thu Apr 26 02:20:33 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isl]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isl]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isl/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isl
+
+####
+## Handling Equipe M [ism]
+####
+# Cloning project from remote repository: OK
+# Opening project ism
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Wed Apr 25 22:15:18 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [ism]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ism]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/ism/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project ism
+
+####
+## Handling Equipe N [isn]
+####
+# Cloning project from remote repository: OK
+# Opening project isn
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Thu Apr 26 08:57:20 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isn]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isn]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isn/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isn
+
+####
+## Handling Equipe O [iso]
+####
+# Cloning project from remote repository: OK
+# Opening project iso
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Thu Apr 26 05:26:46 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iso]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iso]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iso/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project iso
+
+####
+## Handling Equipe P [isp]
+####
+# Cloning project from remote repository: OK
+# Opening project isp
+# Checking out tag [week17]: OK
+# Git stamp: Date:   Thu Apr 26 03:58:06 2018 +0200
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [isp]: OK
+# pom.xml/version == [0.1-SNAPSHOT]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isp]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/isp/Explorer.java]: OK
+# Checking existence of [./journal.md]: OK
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# Leaving project isp
+
+#  Ended at :2018-04-26 09:04:24
+

@@ -1,0 +1,54 @@
+[{
+  "data": {
+    "heading": "S",
+    "men": 21,
+    "contracts": [
+      {
+        "amount": 30,
+        "resource": "RUM"
+      },
+      {
+        "amount": 500,
+        "resource": "FUR"
+      },
+      {
+        "amount": 20,
+        "resource": "GLASS"
+      },
+      {
+        "amount": 15000,
+        "resource": "WOOD"
+      }
+    ],
+    "budget": 30000
+  },
+  "part": "Engine",
+  "time": 1524726766792,
+  "meth": "initialize"
+},{
+  "data": {
+    "exception": ["NullPointerException"],
+    "stacktrace": [[
+      "fr.unice.polytech.si3.qgl.isk.utility.StarterContract.giveOrder(StarterContract.java:106)",
+      "fr.unice.polytech.si3.qgl.isk.utility.StarterContract.defineTheContext(StarterContract.java:74)",
+      "fr.unice.polytech.si3.qgl.isk.utility.StarterContract.<init>(StarterContract.java:53)",
+      "fr.unice.polytech.si3.qgl.isk.utility.StarterContract.genContract(StarterContract.java:62)",
+      "fr.unice.polytech.si3.qgl.isk.World.defineTheContext(World.java:39)",
+      "fr.unice.polytech.si3.qgl.isk.Explorer.initialize(Explorer.java:25)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply$mcV$sp(Engine.scala:34)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply(Engine.scala:34)",
+      "eu.ace_design.island.game.Engine$$anonfun$run$1.apply(Engine.scala:34)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24)",
+      "scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24)",
+      "scala.concurrent.impl.ExecutionContextImpl$AdaptedForkJoinTask.exec(ExecutionContextImpl.scala:121)",
+      "scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)",
+      "scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)",
+      "scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)",
+      "scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)"
+    ]],
+    "message": [null]
+  },
+  "part": "Explorer",
+  "time": 1524726766799,
+  "meth": "initialize"
+}]

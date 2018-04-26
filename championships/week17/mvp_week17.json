@@ -20,23 +20,23 @@
         "resource": "WOOD"
       }
     ],
-    "budget": 20000
+    "budget": 30000
   },
   "part": "Engine",
-  "time": 1524692466888,
+  "time": 1524726731931,
   "meth": "initialize"
 },{
   "data": {"action": "stop"},
   "part": "Explorer",
-  "time": 1524692466889,
+  "time": 1524726731932,
   "meth": "takeDecision"
 },{
   "data": {
-    "cost": 2,
+    "cost": 6,
     "extras": {},
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1524692466889,
+  "time": 1524726731932,
   "meth": "takeDecision"
 }]
