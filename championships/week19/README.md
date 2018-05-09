@@ -1,16 +1,16 @@
 ## Starting a Run with the following players on island week19
-  - CHAMPION, ISA, ISC, ISD, ISE, ISF, ISG, ISH, ISI, ISK, ISL, ISM, ISN, ISO, ISP, MVP
+  - CHAMPION, ISA, ISB, ISC, ISD, ISE, ISF, ISG, ISH, ISI, ISK, ISL, ISM, ISN, ISO, ISP, MVP
 
 ```
-19:49:39.377 Island/Board: [GameBoardBuilder] Starting GameBoard building process
-19:49:39.411 Island/Board: [GameBoardBuilder] Binding faces to game tiles
-19:49:46.215 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
-19:49:46.458 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
-19:49:46.604 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
-19:49:46.779 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
-19:49:46.900 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
-19:49:47.699 Island/Board: [GameBoardBuilder] Introducing Points of Interest
-19:49:47.746 Island/Board: [GameBoardBuilder] GameBoard building process ended
+20:43:34.832 Island/Board: [GameBoardBuilder] Starting GameBoard building process
+20:43:34.868 Island/Board: [GameBoardBuilder] Binding faces to game tiles
+20:43:40.086 Island/Board: [GameBoardBuilder] Processing biomes associated to each tiles
+20:43:40.328 Island/Board: [GameBoardBuilder] Processing resources produced by the biomes
+20:43:40.501 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+20:43:40.765 Island/Board: [GameBoardBuilder] Processing altitudes associated to tiles
+20:43:41.026 Island/Board: [GameBoardBuilder] Instantiating the GameBoard
+20:43:41.551 Island/Board: [GameBoardBuilder] Introducing Points of Interest
+20:43:41.606 Island/Board: [GameBoardBuilder] GameBoard building process ended
 ```
 
 ## Island Map information
@@ -42,20 +42,20 @@
 
 ## Emergency site & Creeks
 
-  - Emergency site [41b333b3-43b4-4e56-8503-43ecf5280145] located at (151.11,612.27)
+  - Emergency site [6291a6a6-6f6b-4300-8a1e-f2d11c50ad37] located at (151.11,612.27)
 
 | Rank | Creek ID | Distance to site | x | y |
 |------|----------|------------------|---|---|
-| C01 | 892fe0f5-f69e-4518-8acd-6791ffe5d5a7 | 60.91 | 161.46 | 552.24 |
-| C02 | 15d8c8e2-81ea-43f3-a40f-3e2b817171c9 | 64.17 | 100.19 | 573.21 |
-| C03 | 18baf510-6449-4438-b6c6-5501f5ce02e3 | 183.00 | 213.71 | 440.31 |
-| C04 | 4b01a7e9-3c79-4ff6-a3ef-78bff82b07b7 | 217.16 | 286.13 | 442.19 |
-| C05 | 5d37fffa-e982-440e-b3b4-1a1723c34ade | 602.68 | 184.29 | 1214.04 |
-| C06 | 683c72ed-9b9d-4113-8f26-2cc3128d7dc2 | 699.19 | 848.61 | 660.87 |
-| C07 | 382b46d8-238c-47e5-8bc0-a0eb367c6134 | 956.16 | 703.19 | 1392.94 |
-| C08 | 089c3bac-6cea-4c51-bba6-e321f650ec6f | 1019.88 | 1167.47 | 696.86 |
-| C09 | f2030e79-9291-4d04-9fb2-dbdb4f4d695e | 1123.30 | 1272.04 | 685.21 |
-| C10 | d0c65cfe-a425-4646-872b-77047e4e2e9f | 1348.24 | 1386.64 | 1151.90 |
+| C01 | 3b305065-ea71-42cf-abed-0548931a3e0c | 60.91 | 161.46 | 552.24 |
+| C02 | 4f16bb2c-f91c-4af8-99e5-1ecc2ebbbad6 | 64.17 | 100.19 | 573.21 |
+| C03 | 9b234eb3-7a3f-499e-b25a-4f032eadb1ce | 183.00 | 213.71 | 440.31 |
+| C04 | 30bc2242-6d59-4db8-bfaa-9d089c7b6608 | 217.16 | 286.13 | 442.19 |
+| C05 | d8ed5efc-59fb-4ae5-9311-a2d15a2a969c | 602.68 | 184.29 | 1214.04 |
+| C06 | 1240ef5e-bd6d-4d1e-bde3-2467ded1da66 | 699.19 | 848.61 | 660.87 |
+| C07 | 6e10bf4b-cb55-495d-b818-4503e2c93c01 | 956.16 | 703.19 | 1392.94 |
+| C08 | f2f69488-05e4-47e7-989d-69d9ef652b7c | 1019.88 | 1167.47 | 696.86 |
+| C09 | af8b4971-545e-4c1c-bca6-fe998c16b51e | 1123.30 | 1272.04 | 685.21 |
+| C10 | 6c107f2d-7681-4e92-afb0-5a7c4b55aa9d | 1348.24 | 1386.64 | 1151.90 |
 
 
 ## Resources amounts
@@ -77,96 +77,108 @@
   - SUGAR_CANE: 300
 
 ```
-19:49:47.840 Island/Arena: Processing player [ism] with island [week19]
-19:49:50.889 Island/Arena:  --> Execution time: 3049ms
-19:49:57.662 Island/Arena: Processing player [isf] with island [week19]
-19:50:00.388 Island/Arena:  --> Execution time: 2726ms
-19:50:04.457 Island/Arena: Processing player [isc] with island [week19]
-19:50:06.949 Island/Arena:  --> Execution time: 2492ms
-19:50:09.861 Island/Arena: Processing player [isd] with island [week19]
-19:50:23.469 Island/Arena:  --> Execution time: 13608ms
-19:50:26.038 Island/Arena: Processing player [isl] with island [week19]
-19:50:28.680 Island/Arena:  --> Execution time: 2642ms
-19:50:32.783 Island/Arena: Processing player [isn] with island [week19]
-19:50:40.640 Island/Arena:  --> Execution time: 7857ms
-19:50:43.203 Island/Arena: Processing player [ise] with island [week19]
-19:50:46.583 Island/Arena:  --> Execution time: 3380ms
-19:50:49.333 Island/Arena: Processing player [isi] with island [week19]
-19:50:52.397 Island/Arena:  --> Execution time: 3064ms
-19:50:54.428 Island/Arena: Processing player [isp] with island [week19]
-19:50:56.977 Island/Arena:  --> Execution time: 2549ms
-19:50:58.719 Island/Arena: Processing player [iso] with island [week19]
-19:51:00.569 Island/Arena:  --> Execution time: 1850ms
-19:51:03.667 Island/Arena: Processing player [isa] with island [week19]
-19:51:04.958 Island/Arena:  --> Execution time: 1291ms
-19:51:07.525 Island/Arena: Processing player [champion] with island [week19]
-19:51:59.127 Island/Arena:  --> Execution time: 51602ms
-19:52:02.226 Island/Arena: Processing player [mvp] with island [week19]
-19:52:02.227 Island/Arena:  --> Execution time: 1ms
-19:52:08.047 Island/Arena: Processing player [ish] with island [week19]
-19:52:09.046 Island/Arena:  --> Execution time: 998ms
-19:52:13.692 Island/Arena: Processing player [isk] with island [week19]
-19:52:16.361 Island/Arena:  --> Execution time: 2669ms
-19:52:21.046 Island/Arena: Processing player [isg] with island [week19]
-19:52:30.114 Island/Arena:  --> Execution time: 9068ms
+20:43:41.693 Island/Arena: Processing player [isp] with island [week19]
+20:43:47.068 Island/Arena:  --> Execution time: 5374ms
+20:43:53.703 Island/Arena: Processing player [isl] with island [week19]
+20:44:00.059 Island/Arena:  --> Execution time: 6356ms
+20:44:05.452 Island/Arena: Processing player [ism] with island [week19]
+20:44:07.059 Island/Arena:  --> Execution time: 1606ms
+20:44:09.562 Island/Arena: Processing player [isc] with island [week19]
+20:44:10.484 Island/Arena:  --> Execution time: 922ms
+20:44:14.273 Island/Arena: Processing player [ise] with island [week19]
+20:44:17.875 Island/Arena:  --> Execution time: 3602ms
+20:44:22.461 Island/Arena: Processing player [isi] with island [week19]
+20:44:25.599 Island/Arena:  --> Execution time: 3138ms
+20:44:28.476 Island/Arena: Processing player [isn] with island [week19]
+20:44:40.822 Island/Arena:  --> Execution time: 12346ms
+20:44:44.262 Island/Arena: Processing player [champion] with island [week19]
+20:45:37.763 Island/Arena:  --> Execution time: 53501ms
+20:45:41.436 Island/Arena: Processing player [isb] with island [week19]
+20:45:43.222 Island/Arena:  --> Execution time: 1786ms
+20:45:46.930 Island/Arena: Processing player [isg] with island [week19]
+20:45:55.832 Island/Arena:  --> Execution time: 8902ms
+20:46:00.709 Island/Arena: Processing player [isf] with island [week19]
+20:46:04.119 Island/Arena:  --> Execution time: 3409ms
+20:46:06.933 Island/Arena: Processing player [isa] with island [week19]
+20:46:08.388 Island/Arena:  --> Execution time: 1455ms
+20:46:11.085 Island/Arena: Processing player [isk] with island [week19]
+20:46:13.542 Island/Arena:  --> Execution time: 2457ms
+20:46:18.178 Island/Arena: Processing player [mvp] with island [week19]
+20:46:18.179 Island/Arena:  --> Execution time: 1ms
+20:46:20.707 Island/Arena: Processing player [iso] with island [week19]
+20:46:22.210 Island/Arena:  --> Execution time: 1503ms
+20:46:24.996 Island/Arena: Processing player [ish] with island [week19]
+20:46:25.937 Island/Arena:  --> Execution time: 941ms
+20:46:28.564 Island/Arena: Processing player [isd] with island [week19]
+20:46:42.209 Island/Arena:  --> Execution time: 13645ms
 ```
 
 # Automatic Ranking
-  - ISL: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 8458 action points left
-  - ISG: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 7547 action points left
-  - ISC: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 6551 action points left
-  - ISA: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 6009 action points left
-  - ISE: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 5387 action points left
-  - CHAMPION: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 4746 action points left
-  - ISH: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 4391 action points left
-  - ISD: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 3423 action points left
-  - ISF: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 374 action points left
-  - ISN: [RUM, SUGAR_CANE, FLOWER, WOOD], 178 action points left
-  - ISO: [RUM, SUGAR_CANE, FUR], 7580 action points left
-  - ISM: [FUR, WOOD, FLOWER, SUGAR_CANE], 470 action points left
-  - ISK: [SUGAR_CANE, FLOWER], 11175 action points left
-  - MVP: [], 19996 action points left
-  - ISP: [], 180 action points left
+  - ISL: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 8485 action points left
+  - ISG: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 7452 action points left
+  - ISC: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 6420 action points left
+  - ISA: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 6035 action points left
+  - ISE: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 5360 action points left
+  - CHAMPION: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 4738 action points left
+  - ISH: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 4347 action points left
+  - ISD: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 3988 action points left
+  - ISF: [SUGAR_CANE, FUR, WOOD, RUM, FLOWER], 372 action points left
+  - ISN: [RUM, SUGAR_CANE, FLOWER, WOOD], 177 action points left
+  - ISO: [SUGAR_CANE, FUR, RUM], 7608 action points left
+  - ISM: [FUR, WOOD, FLOWER, SUGAR_CANE], 467 action points left
+  - ISK: [SUGAR_CANE, FLOWER], 11015 action points left
+  - ISB: [SUGAR_CANE, FLOWER], 7099 action points left
+  - ISP: [FLOWER], 186 action points left
+  - MVP: [], 19998 action points left
 
 # Successful simulations
 
 ## Playing bot delivered by CHAMPION
-  - Remaining budget: 4746
+  - Remaining budget: 4738
   - Collected resources:
     - RUM: 40
-    - SUGAR_CANE: 1502
     - WOOD: 3026
+    - SUGAR_CANE: 1472
     - FLOWER: 12
     - FUR: 503
-    - FRUITS: 18
+    - FRUITS: 15
   - Report: `We're gonna be rich !`
 
 ## Playing bot delivered by ISA
-  - Remaining budget: 6009
+  - Remaining budget: 6035
   - Collected resources:
     - WOOD: 3035
-    - RUM: 41
+    - RUM: 42
+    - FRUITS: 7
     - SUGAR_CANE: 307
     - FUR: 504
     - FLOWER: 13
-    - FRUITS: 7
   - Report: 
 
 ```
-Creeks: f2030e79-9291-4d04-9fb2-dbdb4f4d695e , d0c65cfe-a425-4646-872b-77047e4e2e9f , 089c3bac-6cea-4c51-bba6-e321f650ec6f , 683c72ed-9b9d-4113-8f26-2cc3128d7dc2
-Emergency site not found, here's one random creek: f2030e79-9291-4d04-9fb2-dbdb4f4d695e
+Creeks: 6c107f2d-7681-4e92-afb0-5a7c4b55aa9d , af8b4971-545e-4c1c-bca6-fe998c16b51e , f2f69488-05e4-47e7-989d-69d9ef652b7c , 1240ef5e-bd6d-4d1e-bde3-2467ded1da66
+Emergency site not found, here's one random creek: 6c107f2d-7681-4e92-afb0-5a7c4b55aa9d
 ```
 
 
-## Playing bot delivered by ISC
-  - Remaining budget: 6551
+## Playing bot delivered by ISB
+  - Remaining budget: 7099
   - Collected resources:
-    - RUM: 49
-    - FUR: 504
+    - SUGAR_CANE: 302
+    - WOOD: 864
+    - FLOWER: 12
+    - FUR: 123
+  - Report: `I found something!`
+
+## Playing bot delivered by ISC
+  - Remaining budget: 6420
+  - Collected resources:
     - FRUITS: 1
+    - FUR: 504
     - FLOWER: 13
     - SUGAR_CANE: 308
     - WOOD: 3023
+    - RUM: 43
   - Report: 
 
 ```
@@ -175,41 +187,41 @@ FRUITS : 101
 FUR : 504
 SUGAR_CANE : 768
 WOOD : 3023
-RUM : 49
+RUM : 43
 
 ```
 
 
 ## Playing bot delivered by ISD
-  - Remaining budget: 3423
+  - Remaining budget: 3988
   - Collected resources:
-    - RUM: 40
+    - SUGAR_CANE: 335
     - WOOD: 3035
-    - FRUITS: 47
-    - SUGAR_CANE: 685
+    - FRUITS: 10
+    - FUR: 505
     - FLOWER: 12
-    - FUR: 502
-  - Report: `Inventory{{FRUITS=47, RUM=40, SUGAR_CANE=685, FUR=502, FLOWER=12, WOOD=3035}}`
+    - RUM: 43
+  - Report: `Inventory{{FRUITS=10, WOOD=3035, FLOWER=12, FUR=505, SUGAR_CANE=335, RUM=43}}`
 
 ## Playing bot delivered by ISE
-  - Remaining budget: 5387
+  - Remaining budget: 5360
   - Collected resources:
+    - FRUITS: 7
+    - RUM: 41
     - FLOWER: 12
     - FUR: 503
-    - FRUITS: 7
     - WOOD: 3022
     - SUGAR_CANE: 311
-    - RUM: 43
   - Report: `Did everyone see that? Because we will not be doing it again!`
 
 ## Playing bot delivered by ISF
-  - Remaining budget: 374
+  - Remaining budget: 372
   - Collected resources:
     - RUM: 40
-    - SUGAR_CANE: 309
     - FUR: 504
     - FLOWER: 12
-    - FRUITS: 6
+    - FRUITS: 8
+    - SUGAR_CANE: 300
     - WOOD: 3022
   - Report: 
 
@@ -226,29 +238,29 @@ contract SUGAR_CANE completed.
 
 
 ## Playing bot delivered by ISG
-  - Remaining budget: 7547
+  - Remaining budget: 7452
   - Collected resources:
-    - SUGAR_CANE: 309
+    - RUM: 40
+    - SUGAR_CANE: 310
+    - FRUITS: 6
     - FLOWER: 12
     - FUR: 502
     - WOOD: 3031
-    - FRUITS: 3
-    - RUM: 43
   - Report: `Hey boss we completed 5 goals!`
 
 ## Playing bot delivered by ISH
-  - Remaining budget: 4391
+  - Remaining budget: 4347
   - Collected resources:
     - SUGAR_CANE: 320
-    - RUM: 41
+    - RUM: 42
+    - FRUITS: 6
     - FUR: 504
     - FLOWER: 12
-    - FRUITS: 6
     - WOOD: 3023
-  - Report: `{"remaining budget":4391,"contract":"{\"heading\":\"S\",\"men\":7,\"contracts\":[{\"amount\":300,\"resource\":\"SUGAR_CANE\"},{\"amount\":20,\"resource\":\"ORE\"},{\"amount\":3000,\"resource\":\"WOOD\"},{\"amount\":12,\"resource\":\"FLOWER\"},{\"amount\":500,\"resource\":\"FUR\"},{\"amount\":40,\"resource\":\"RUM\"}],\"budget\":20000}","inventory":"[\"FLOWER: 12\",\"RUM: 41\",\"FUR: 504\",\"FRUITS: 6\",\"SUGAR_CANE: 320\",\"WOOD: 3023\"]","message":"We are Pirates"}`
+  - Report: `{"remaining budget":4347,"contract":"{\"heading\":\"S\",\"men\":7,\"contracts\":[{\"amount\":300,\"resource\":\"SUGAR_CANE\"},{\"amount\":20,\"resource\":\"ORE\"},{\"amount\":3000,\"resource\":\"WOOD\"},{\"amount\":12,\"resource\":\"FLOWER\"},{\"amount\":500,\"resource\":\"FUR\"},{\"amount\":40,\"resource\":\"RUM\"}],\"budget\":20000}","inventory":"[\"FLOWER: 12\",\"FUR: 504\",\"RUM: 42\",\"FRUITS: 6\",\"SUGAR_CANE: 320\",\"WOOD: 3023\"]","message":"We are Pirates"}`
 
 ## Playing bot delivered by ISK
-  - Remaining budget: 11175
+  - Remaining budget: 11015
   - Collected resources:
     - SUGAR_CANE: 311
     - WOOD: 772
@@ -263,24 +275,24 @@ contract SUGAR_CANE completed.
 
 
 ## Playing bot delivered by ISL
-  - Remaining budget: 8458
+  - Remaining budget: 8485
   - Collected resources:
-    - RUM: 48
+    - FRUITS: 3
     - FUR: 500
     - WOOD: 3011
     - FLOWER: 12
     - SUGAR_CANE: 308
-    - FRUITS: 3
+    - RUM: 47
   - Report: 
 
 ```
 EMERGENCY: ???
-CREEK: 683c72ed-9b9d-4113-8f26-2cc3128d7dc2
+CREEK: 1240ef5e-bd6d-4d1e-bde3-2467ded1da66
 ```
 
 
 ## Playing bot delivered by ISM
-  - Remaining budget: 470
+  - Remaining budget: 467
   - Collected resources:
     - FUR: 504
     - WOOD: 3015
@@ -289,40 +301,41 @@ CREEK: 683c72ed-9b9d-4113-8f26-2cc3128d7dc2
   - Report: `the weather was damn bad.`
 
 ## Playing bot delivered by ISN
-  - Remaining budget: 178
+  - Remaining budget: 177
   - Collected resources:
     - RUM: 40
-    - FRUITS: 14
-    - FUR: 321
-    - SUGAR_CANE: 303
+    - FUR: 303
+    - SUGAR_CANE: 315
+    - FRUITS: 6
     - FLOWER: 12
     - WOOD: 3023
   - Report: `Hey ! We have explored the Island !`
 
 ## Playing bot delivered by ISO
-  - Remaining budget: 7580
+  - Remaining budget: 7608
   - Collected resources:
     - WOOD: 2856
-    - RUM: 42
-    - SUGAR_CANE: 307
     - FRUITS: 2
+    - SUGAR_CANE: 307
     - FUR: 502
+    - RUM: 43
   - Report: `Seize the resources and make them available for the working man !`
 
 ## Playing bot delivered by ISP
-  - Remaining budget: 180
+  - Remaining budget: 186
   - Collected resources:
-    - No resources collected
+    - FLOWER: 12
+    - FUR: 455
   - Report: 
 
 ```
-EMERGENCY: 41b333b3-43b4-4e56-8503-43ecf5280145
-CREEK: 5d37fffa-e982-440e-b3b4-1a1723c34ade
+EMERGENCY: 6291a6a6-6f6b-4300-8a1e-f2d11c50ad37
+CREEK: d8ed5efc-59fb-4ae5-9311-a2d15a2a969c
 ```
 
 
 ## Playing bot delivered by MVP
-  - Remaining budget: 19996
+  - Remaining budget: 19998
   - Collected resources:
     - No resources collected
   - Report: 
