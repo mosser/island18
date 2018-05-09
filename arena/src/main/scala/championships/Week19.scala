@@ -21,6 +21,6 @@ object Week19 extends Run with SI3 {
   override val objectives: Set[(Resource, Int)] =
     Set((WOOD, 3000), (ORE, 20), (FUR, 500), (RUM, 40), (SUGAR_CANE, 300), (FLOWER, 12))
 
-  override def players:  Map[String, Class[_ <: IExplorerRaid]] =  refs // all
+  override def players:  Map[String, Class[_ <: IExplorerRaid]] =  all - "isb" - "isj"
 
 }
