@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OPTS="-DoutputFormats=XML -DtimestampedReports=false -Dthreads=4"
+#OPTS="-DoutputFormats=XML -DtimestampedReports=false -Dthreads=4"
 
 for team in is*
 do
