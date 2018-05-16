@@ -1,542 +1,554 @@
 # Retrospective Results
 
-  - Execution time: 28.39 minutes (1703690ms)
+  - Execution time: 23.77 minutes (1426476ms)
 
   - Available contracts: 70
 
 ## Player CHAMPION
-  - Collected contracts: 58 (82.86%)
+  - Collected contracts: 62 (88.57%)
   - Detailed results:
-    - Using island week03, KO - game error
-    - Using island week04, completed : WOOD,QUARTZ / 13019 action points left
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 18333 action points left
+      - FUR: 103
+      - WOOD: 2026
+      - FRUITS: 6
+      - SUGAR_CANE: 553
+      - RUM: 2
+      - QUARTZ: 400
+    - Using island week04, completed : WOOD,QUARTZ / 13042 action points left
       - QUARTZ: 103
       - WOOD: 4004
-    - Using island week05, completed : RUM,QUARTZ,FUR / 4599 action points left
-      - SUGAR_CANE: 81
+    - Using island week05, completed : RUM,QUARTZ,FUR / 4467 action points left
       - FUR: 500
-      - RUM: 43
-      - FRUITS: 1
+      - SUGAR_CANE: 63
       - QUARTZ: 53
-    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 4470 action points left
+      - FRUITS: 10
+      - RUM: 40
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 4201 action points left
       - WOOD: 1030
       - FLOWER: 500
       - QUARTZ: 101
       - FRUITS: 45
-    - Using island week07, completed : WOOD,QUARTZ / 14169 action points left
+    - Using island week07, completed : WOOD,QUARTZ / 14559 action points left
       - QUARTZ: 103
-      - WOOD: 3005
-    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 13876 action points left
+      - WOOD: 3007
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 13977 action points left
       - RUM: 10
       - QUARTZ: 104
       - FUR: 203
       - WOOD: 5001
       - FRUITS: 11
       - SUGAR_CANE: 1962
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 14837 action points left
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 14556 action points left
       - QUARTZ: 200
       - FLOWER: 2
-      - WOOD: 5017
-      - PLANK: 1018
-    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 2977 action points left
+      - WOOD: 5005
+      - PLANK: 1003
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 2899 action points left
       - QUARTZ: 20
       - WOOD: 5022
       - FUR: 1
       - LEATHER: 50
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 10530 action points left
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 9362 action points left
       - QUARTZ: 23
-      - WOOD: 7034
       - FLOWER: 6
-      - FRUITS: 7
-      - SUGAR_CANE: 4
+      - WOOD: 7028
+      - SUGAR_CANE: 24
+      - FRUITS: 102
       - RUM: 5
-    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 5912 action points left
+    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 5907 action points left
       - WOOD: 4042
       - FUR: 1000
       - QUARTZ: 21
       - SUGAR_CANE: 16
       - FRUITS: 40
       - RUM: 5
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 2873 action points left
-      - SUGAR_CANE: 409
-      - FRUITS: 23
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 2896 action points left
+      - SUGAR_CANE: 402
+      - FRUITS: 5
       - QUARTZ: 20
       - WOOD: 7033
       - RUM: 5
-    - Using island week14, completed : FUR,FLOWER / 177 action points left
+    - Using island week14, completed : FUR,FLOWER / 175 action points left
       - QUARTZ: 93
       - FUR: 501
       - WOOD: 2114
       - FLOWER: 5
-    - Using island week15, completed : WOOD,FUR / 173 action points left
+    - Using island week15, completed : WOOD,FUR / 181 action points left
       - WOOD: 727
-      - SUGAR_CANE: 215
+      - SUGAR_CANE: 272
       - FUR: 502
       - QUARTZ: 11
-    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 2152 action points left
-      - WOOD: 7135
-      - QUARTZ: 5
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 2283 action points left
+      - WOOD: 7386
+      - QUARTZ: 3
       - FLOWER: 10
       - FUR: 15
       - GLASS: 10
-    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 5108 action points left
+    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 5596 action points left
       - GLASS: 20
-      - SUGAR_CANE: 95
-      - FRUITS: 9
+      - FRUITS: 7
       - RUM: 30
       - QUARTZ: 2
       - FUR: 503
-      - WOOD: 15007
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 10122 action points left
+      - SUGAR_CANE: 108
+      - WOOD: 15026
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 10572 action points left
       - GLASS: 20
       - FUR: 501
       - FLOWER: 12
-      - WOOD: 5124
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 5539 action points left
-      - SUGAR_CANE: 953
+      - QUARTZ: 2
+      - WOOD: 4954
+    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 4788 action points left
+      - RUM: 42
+      - FUR: 501
       - FLOWER: 12
-      - FUR: 502
-      - RUM: 40
-      - WOOD: 3021
+      - FRUITS: 8
+      - SUGAR_CANE: 1512
+      - WOOD: 3019
     - Using island week20, completed : WOOD,FUR,FLOWER / 165 action points left
-      - FUR: 1175
-      - WOOD: 5028
+      - FUR: 1151
+      - WOOD: 5017
       - FLOWER: 1
 
 ## Player ISA
   - Collected contracts: 55 (78.57%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 12750 action points left
+    - Using island week03, completed : WOOD,FUR,QUARTZ / 364 action points left
       - WOOD: 2014
       - SUGAR_CANE: 7
-      - FRUITS: 2
+      - FRUITS: 7
       - QUARTZ: 402
       - FUR: 101
-      - RUM: 2
-    - Using island week04, completed : WOOD,QUARTZ / 12755 action points left
+      - RUM: 1
+    - Using island week04, completed : WOOD,QUARTZ / 12645 action points left
       - QUARTZ: 105
       - WOOD: 4034
-    - Using island week05, completed : RUM,QUARTZ,FUR / 950 action points left
-      - SUGAR_CANE: 5
+    - Using island week05, completed : QUARTZ,FUR / 376 action points left
+      - SUGAR_CANE: 27
+      - RUM: 39
       - FRUITS: 7
       - QUARTZ: 54
-      - RUM: 41
       - FUR: 503
-    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 388 action points left
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 325 action points left
       - FLOWER: 501
       - WOOD: 1033
       - QUARTZ: 101
       - FRUITS: 48
-    - Using island week07, completed : WOOD,QUARTZ / 13334 action points left
+    - Using island week07, completed : WOOD,QUARTZ / 13419 action points left
       - WOOD: 3020
       - QUARTZ: 105
-    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 16958 action points left
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 18107 action points left
       - QUARTZ: 102
-      - FRUITS: 14
+      - SUGAR_CANE: 3
       - RUM: 10
+      - FRUITS: 9
       - WOOD: 5013
-      - SUGAR_CANE: 12
       - FUR: 201
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 12411 action points left
-      - WOOD: 5034
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 12432 action points left
+      - WOOD: 5039
       - QUARTZ: 203
       - FLOWER: 3
-      - PLANK: 1002
-    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 2313 action points left
-      - WOOD: 5020
+      - PLANK: 1001
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 3231 action points left
+      - WOOD: 5008
       - FUR: 2
-      - QUARTZ: 25
+      - QUARTZ: 24
       - LEATHER: 50
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 5196 action points left
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 4682 action points left
+      - SUGAR_CANE: 7
       - FLOWER: 6
-      - FRUITS: 6
+      - FRUITS: 9
       - WOOD: 7026
       - QUARTZ: 26
-      - SUGAR_CANE: 4
       - RUM: 5
-    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 763 action points left
+    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 2473 action points left
       - QUARTZ: 23
-      - WOOD: 4004
+      - FRUITS: 4
       - FUR: 1001
-      - SUGAR_CANE: 4
+      - SUGAR_CANE: 18
+      - WOOD: 4020
       - RUM: 5
-      - FRUITS: 17
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 910 action points left
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 1017 action points left
       - QUARTZ: 22
       - WOOD: 7013
       - FRUITS: 5
       - SUGAR_CANE: 405
       - RUM: 5
-    - Using island week14, completed : FUR,FLOWER / 375 action points left
+    - Using island week14, completed : FUR,FLOWER / 364 action points left
       - FUR: 504
       - QUARTZ: 156
       - FLOWER: 5
       - WOOD: 160
-    - Using island week15, completed : none / 379 action points left
-      - SUGAR_CANE: 340
-      - WOOD: 321
-      - FUR: 477
-      - QUARTZ: 57
-    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 6726 action points left
+    - Using island week15, completed : FUR / 368 action points left
+      - QUARTZ: 27
+      - FUR: 503
+      - WOOD: 72
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 6957 action points left
       - FUR: 20
       - FLOWER: 11
       - QUARTZ: 6
       - WOOD: 5004
       - GLASS: 10
-    - Using island week17, completed : WOOD / 257 action points left
-      - SUGAR_CANE: 306
-      - WOOD: 15117
-      - FUR: 420
-      - FRUITS: 31
-      - QUARTZ: 204
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 11245 action points left
+    - Using island week17, completed : WOOD,FUR,RUM / 136 action points left
+      - QUARTZ: 4
+      - WOOD: 15017
+      - FRUITS: 4
+      - SUGAR_CANE: 5
+      - FUR: 501
+      - RUM: 31
+      - GLASS: 18
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 9691 action points left
       - QUARTZ: 5
       - GLASS: 20
-      - FUR: 501
-      - FLOWER: 13
-      - WOOD: 3007
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 5777 action points left
-      - WOOD: 3035
-      - FRUITS: 7
+      - WOOD: 3092
       - FLOWER: 13
       - FUR: 503
-      - SUGAR_CANE: 307
+    - Using island week19, completed : FUR,FLOWER,WOOD,RUM / 5810 action points left
+      - WOOD: 3035
+      - FRUITS: 2
+      - FLOWER: 13
+      - FUR: 503
+      - SUGAR_CANE: 257
       - RUM: 40
-    - Using island week20, completed : FUR / 377 action points left
-      - FUR: 3294
+    - Using island week20, completed : FUR / 382 action points left
+      - FUR: 3273
       - WOOD: 66
 
 ## Player ISB
   - Collected contracts: 0 (0.00%)
   - Detailed results:
-    - Using island week03, completed : none / 25913 action points left
-    - Using island week04, completed : none / 16301 action points left
-    - Using island week05, completed : none / 7283 action points left
+    - Using island week03, completed : none / 25994 action points left
+    - Using island week04, completed : none / 16345 action points left
+    - Using island week05, completed : none / 7234 action points left
     - Using island week06, completed : none / 24984 action points left
-    - Using island week07, completed : none / 17576 action points left
-    - Using island week08, completed : none / 29983 action points left
-    - Using island week09, completed : none / 21844 action points left
-    - Using island week10, completed : none / 7031 action points left
-    - Using island week11, completed : none / 15741 action points left
+    - Using island week07, completed : none / 17498 action points left
+    - Using island week08, completed : none / 29979 action points left
+    - Using island week09, completed : none / 21855 action points left
+    - Using island week10, completed : none / 7069 action points left
+    - Using island week11, completed : none / 15815 action points left
       - FLOWER: 1
-    - Using island week12, completed : none / 14471 action points left
-    - Using island week13, completed : none / 9376 action points left
+    - Using island week12, completed : none / 14489 action points left
+    - Using island week13, completed : none / 9244 action points left
       - WOOD: 34
-    - Using island week14, completed : none / 5088 action points left
+    - Using island week14, completed : none / 5057 action points left
       - FUR: 2
-    - Using island week15, completed : none / 2702 action points left
+    - Using island week15, completed : none / 2653 action points left
       - FUR: 6
-    - Using island week16, completed : none / 14966 action points left
+    - Using island week16, completed : none / 14987 action points left
       - WOOD: 42
-    - Using island week17, completed : none / 22040 action points left
-    - Using island week18, completed : none / 25963 action points left
-    - Using island week19, completed : none / 12244 action points left
-    - Using island week20, completed : none / 15789 action points left
+    - Using island week17, completed : none / 21972 action points left
+    - Using island week18, completed : none / 25977 action points left
+    - Using island week19, completed : none / 12115 action points left
+    - Using island week20, completed : none / 15796 action points left
 
 ## Player ISC
   - Collected contracts: 61 (87.14%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 18694 action points left
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 18777 action points left
       - FRUITS: 2
       - WOOD: 2011
       - SUGAR_CANE: 12
       - RUM: 2
       - QUARTZ: 400
       - FUR: 102
-    - Using island week04, completed : WOOD,QUARTZ / 11788 action points left
+    - Using island week04, completed : WOOD,QUARTZ / 11806 action points left
       - QUARTZ: 103
       - WOOD: 4009
-    - Using island week05, completed : RUM,QUARTZ,FUR / 636 action points left
+    - Using island week05, completed : RUM,QUARTZ,FUR / 683 action points left
+      - RUM: 44
       - FUR: 500
-      - RUM: 46
       - FRUITS: 7
       - QUARTZ: 54
       - SUGAR_CANE: 12
-    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 4766 action points left
-      - WOOD: 1012
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 4251 action points left
+      - WOOD: 1002
       - FLOWER: 500
-      - QUARTZ: 101
+      - QUARTZ: 104
       - FRUITS: 44
-    - Using island week07, completed : WOOD,QUARTZ / 12541 action points left
+    - Using island week07, completed : WOOD,QUARTZ / 12487 action points left
       - QUARTZ: 100
       - WOOD: 3009
-    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 17404 action points left
-      - QUARTZ: 106
-      - WOOD: 5002
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 16374 action points left
+      - RUM: 10
       - FRUITS: 3
-      - FUR: 204
+      - WOOD: 5001
       - SUGAR_CANE: 11
-      - RUM: 11
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 11375 action points left
+      - QUARTZ: 100
+      - FUR: 206
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 11289 action points left
       - QUARTZ: 202
       - FLOWER: 2
       - WOOD: 5015
-      - PLANK: 1197
-    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 4108 action points left
+      - PLANK: 1056
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 3990 action points left
       - QUARTZ: 23
       - FUR: 2
       - WOOD: 5004
       - LEATHER: 71
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 8602 action points left
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 8711 action points left
+      - RUM: 6
       - SUGAR_CANE: 5
       - WOOD: 7029
       - FRUITS: 9
       - QUARTZ: 25
       - FLOWER: 5
-      - RUM: 5
-    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 5759 action points left
+    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 5708 action points left
       - SUGAR_CANE: 8
       - FRUITS: 9
       - QUARTZ: 21
       - FUR: 1003
       - WOOD: 4009
       - RUM: 5
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 1702 action points left
-      - RUM: 6
-      - SUGAR_CANE: 402
-      - WOOD: 7030
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 1619 action points left
+      - WOOD: 7013
       - FRUITS: 8
       - QUARTZ: 21
-    - Using island week14, completed : FUR,FLOWER / 369 action points left
+      - SUGAR_CANE: 418
+      - RUM: 5
+    - Using island week14, completed : FUR,FLOWER / 382 action points left
       - FUR: 505
       - FLOWER: 5
       - QUARTZ: 117
       - WOOD: 535
-    - Using island week15, completed : FUR / 379 action points left
+    - Using island week15, completed : FUR / 374 action points left
       - FUR: 501
       - QUARTZ: 27
-    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 7098 action points left
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 6964 action points left
       - FUR: 16
       - QUARTZ: 5
       - WOOD: 5035
-      - GLASS: 11
       - FLOWER: 10
-    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 899 action points left
+      - GLASS: 10
+    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 838 action points left
       - FUR: 500
       - QUARTZ: 5
       - SUGAR_CANE: 8
       - FRUITS: 6
       - WOOD: 15028
       - RUM: 33
-      - GLASS: 23
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 13254 action points left
+      - GLASS: 22
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 13332 action points left
       - WOOD: 3014
+      - GLASS: 20
       - FUR: 501
       - QUARTZ: 1
       - FLOWER: 12
-      - GLASS: 22
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 6586 action points left
-      - RUM: 42
+    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 6508 action points left
+      - RUM: 44
       - FRUITS: 1
       - FUR: 504
       - FLOWER: 12
       - WOOD: 3023
       - SUGAR_CANE: 308
-    - Using island week20, completed : WOOD,FUR,FLOWER / 376 action points left
-      - FUR: 845
+    - Using island week20, completed : WOOD,FUR,FLOWER / 375 action points left
+      - FUR: 843
       - FLOWER: 1
       - WOOD: 5037
 
 ## Player ISD
   - Collected contracts: 50 (71.43%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 12571 action points left
-      - FRUITS: 20
-      - WOOD: 2016
-      - RUM: 2
-      - QUARTZ: 400
-      - SUGAR_CANE: 46
-      - FUR: 102
-    - Using island week04, completed : WOOD,QUARTZ / 9078 action points left
-      - QUARTZ: 100
-      - WOOD: 4003
-    - Using island week05, completed : RUM,QUARTZ,FUR / 2319 action points left
-      - FUR: 500
-      - FRUITS: 48
-      - SUGAR_CANE: 403
-      - QUARTZ: 50
-      - RUM: 40
-    - Using island week06, completed : WOOD,FLOWER / 605 action points left
-      - WOOD: 1002
-      - FLOWER: 500
-      - QUARTZ: 96
-      - FRUITS: 32
-    - Using island week07, completed : none / 14238 action points left
-      - WOOD: 2357
-    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 13591 action points left
-      - FUR: 202
-      - SUGAR_CANE: 30
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 16187 action points left
+      - FUR: 103
+      - SUGAR_CANE: 25
+      - RUM: 3
+      - QUARTZ: 402
+      - FRUITS: 24
+      - WOOD: 2009
+    - Using island week04, completed : WOOD,QUARTZ / 9094 action points left
       - QUARTZ: 104
-      - RUM: 19
-      - WOOD: 5028
-      - FRUITS: 17
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 11864 action points left
+      - WOOD: 4013
+    - Using island week05, completed : RUM,FUR / 230 action points left
+      - FUR: 500
+      - QUARTZ: 47
+      - FRUITS: 44
+      - SUGAR_CANE: 375
+      - RUM: 40
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 4019 action points left
+      - WOOD: 1015
+      - FLOWER: 500
+      - QUARTZ: 103
+      - FRUITS: 41
+    - Using island week07, completed : none / 14395 action points left
+      - QUARTZ: 10
+      - WOOD: 1839
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 13544 action points left
+      - FUR: 202
+      - SUGAR_CANE: 104
+      - WOOD: 5015
+      - RUM: 10
+      - FRUITS: 22
+      - QUARTZ: 101
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 11658 action points left
       - WOOD: 5068
       - FLOWER: 2
       - QUARTZ: 202
-      - PLANK: 3847
-    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 3253 action points left
+      - PLANK: 4076
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 3206 action points left
       - QUARTZ: 24
       - WOOD: 5008
       - FUR: 9
-      - LEATHER: 54
-    - Using island week11, completed : FLOWER,QUARTZ,RUM / 6097 action points left
-      - SUGAR_CANE: 37
-      - WOOD: 5005
+      - LEATHER: 52
+    - Using island week11, completed : FLOWER,QUARTZ,RUM / 6290 action points left
+      - FRUITS: 11
       - FLOWER: 5
-      - QUARTZ: 20
-      - FRUITS: 12
+      - QUARTZ: 21
+      - WOOD: 5628
+      - SUGAR_CANE: 29
       - RUM: 5
-    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 4611 action points left
-      - RUM: 9
+    - Using island week12, completed : FUR,QUARTZ,RUM / 8992 action points left
+      - FUR: 1004
+      - SUGAR_CANE: 32
+      - FRUITS: 6
+      - WOOD: 1274
+      - QUARTZ: 21
+      - RUM: 5
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,RUM / 338 action points left
       - QUARTZ: 23
-      - FRUITS: 14
-      - SUGAR_CANE: 23
-      - FUR: 1003
-      - WOOD: 4011
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,RUM / 346 action points left
-      - QUARTZ: 23
-      - FRUITS: 15
       - WOOD: 6343
-      - SUGAR_CANE: 440
-      - RUM: 5
-    - Using island week14, completed : FUR / 232 action points left
-      - QUARTZ: 109
-      - FUR: 503
-      - WOOD: 505
-    - Using island week15, completed : FUR / 234 action points left
-      - FUR: 504
-      - QUARTZ: 32
-      - SUGAR_CANE: 323
-      - WOOD: 179
-    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 3430 action points left
-      - FUR: 19
-      - QUARTZ: 9
-      - WOOD: 5064
+      - SUGAR_CANE: 436
+      - FRUITS: 24
+      - RUM: 8
+    - Using island week14, completed : FUR / 236 action points left
+      - QUARTZ: 132
+      - FUR: 502
+      - WOOD: 356
+    - Using island week15, completed : FUR / 230 action points left
+      - FUR: 501
+      - QUARTZ: 37
+      - SUGAR_CANE: 324
+      - WOOD: 236
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 6354 action points left
+      - QUARTZ: 5
       - FLOWER: 10
+      - FUR: 15
       - GLASS: 10
-    - Using island week17, completed : WOOD,RUM / 727 action points left
-      - FUR: 122
-      - SUGAR_CANE: 30
-      - RUM: 57
-      - FRUITS: 12
-      - WOOD: 15128
-      - QUARTZ: 78
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 12304 action points left
-      - FUR: 500
-      - WOOD: 3026
+      - WOOD: 5063
+    - Using island week17, completed : WOOD,RUM / 720 action points left
+      - FRUITS: 14
+      - WOOD: 15118
+      - RUM: 30
+      - QUARTZ: 151
+      - SUGAR_CANE: 24
+      - FUR: 274
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 12148 action points left
       - GLASS: 20
-      - QUARTZ: 1
-      - FLOWER: 12
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 3965 action points left
+      - WOOD: 3062
+      - FUR: 501
+      - FLOWER: 13
+    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 3986 action points left
       - SUGAR_CANE: 335
-      - RUM: 43
+      - RUM: 42
       - WOOD: 3035
       - FLOWER: 12
       - FUR: 505
       - FRUITS: 10
-    - Using island week20, completed : FUR / 472 action points left
-      - FUR: 2678
+    - Using island week20, completed : FUR / 475 action points left
+      - FUR: 2590
+      - WOOD: 727
 
 ## Player ISE
   - Collected contracts: 65 (92.86%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 16657 action points left
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 16730 action points left
       - FUR: 100
       - SUGAR_CANE: 7
       - FRUITS: 6
       - WOOD: 2023
       - RUM: 2
       - QUARTZ: 400
-    - Using island week04, completed : WOOD,QUARTZ / 13278 action points left
+    - Using island week04, completed : WOOD,QUARTZ / 13246 action points left
       - QUARTZ: 100
       - WOOD: 4015
-    - Using island week05, completed : RUM,QUARTZ,FUR / 1840 action points left
+    - Using island week05, completed : RUM,QUARTZ,FUR / 1976 action points left
       - SUGAR_CANE: 2
       - QUARTZ: 54
-      - FRUITS: 2
+      - FRUITS: 6
+      - RUM: 41
       - FUR: 505
-      - RUM: 40
-    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 4422 action points left
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 4377 action points left
       - QUARTZ: 101
       - FLOWER: 500
       - WOOD: 1028
       - FRUITS: 44
-    - Using island week07, completed : WOOD,QUARTZ / 10406 action points left
+    - Using island week07, completed : WOOD,QUARTZ / 10347 action points left
       - QUARTZ: 104
       - WOOD: 3017
-    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 17331 action points left
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 17186 action points left
       - RUM: 10
       - WOOD: 5007
       - QUARTZ: 101
       - FUR: 201
       - SUGAR_CANE: 17
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 12388 action points left
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 12348 action points left
       - QUARTZ: 200
       - WOOD: 5002
       - FLOWER: 2
-      - PLANK: 1027
-    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 6364 action points left
+      - PLANK: 1051
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 6438 action points left
       - QUARTZ: 21
       - WOOD: 5032
-      - LEATHER: 50
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 8345 action points left
+      - FUR: 5
+      - LEATHER: 51
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 8264 action points left
       - SUGAR_CANE: 13
       - FRUITS: 4
       - WOOD: 7029
       - FLOWER: 5
       - QUARTZ: 21
       - RUM: 5
-    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 4524 action points left
+    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 4488 action points left
       - QUARTZ: 22
       - WOOD: 4014
-      - FRUITS: 4
-      - SUGAR_CANE: 5
       - FUR: 1002
+      - FRUITS: 6
+      - SUGAR_CANE: 4
       - RUM: 5
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 3231 action points left
-      - FRUITS: 2
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 3153 action points left
       - WOOD: 7014
-      - SUGAR_CANE: 411
       - QUARTZ: 20
+      - SUGAR_CANE: 410
       - RUM: 5
-    - Using island week14, completed : GLASS,FUR,FLOWER / 961 action points left
+    - Using island week14, completed : GLASS,FUR,FLOWER / 1097 action points left
+      - WOOD: 24
+      - QUARTZ: 1
       - FLOWER: 5
       - FUR: 502
-      - WOOD: 19
       - GLASS: 15
-    - Using island week15, completed : WOOD,GLASS,FUR,SUGAR_CANE / 1321 action points left
-      - FUR: 500
-      - WOOD: 523
+    - Using island week15, completed : WOOD,GLASS,FUR,SUGAR_CANE / 1600 action points left
+      - WOOD: 504
+      - QUARTZ: 1
+      - FUR: 502
       - SUGAR_CANE: 418
       - GLASS: 15
-    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 9160 action points left
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 9441 action points left
+      - WOOD: 5009
       - QUARTZ: 1
-      - WOOD: 5004
       - FLOWER: 10
       - FUR: 15
       - GLASS: 10
-    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 3559 action points left
-      - GLASS: 20
+    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 3930 action points left
       - FUR: 501
+      - QUARTZ: 1
       - FRUITS: 5
-      - QUARTZ: 2
-      - RUM: 31
+      - RUM: 30
+      - GLASS: 21
+      - WOOD: 15021
       - SUGAR_CANE: 12
-      - WOOD: 15011
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 10904 action points left
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 11606 action points left
       - GLASS: 20
+      - WOOD: 3013
       - FUR: 501
       - QUARTZ: 1
       - FLOWER: 12
-      - WOOD: 3022
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 7669 action points left
-      - SUGAR_CANE: 301
-      - RUM: 43
+    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 6956 action points left
+      - FRUITS: 7
       - FLOWER: 12
       - WOOD: 3017
       - FUR: 503
-      - FRUITS: 10
-    - Using island week20, completed : WOOD,FUR,FLOWER / 6694 action points left
+      - SUGAR_CANE: 315
+      - RUM: 40
+    - Using island week20, completed : WOOD,FUR,FLOWER / 6635 action points left
       - FUR: 401
       - WOOD: 5039
       - FLOWER: 1
@@ -544,578 +556,583 @@
 ## Player ISF
   - Collected contracts: 53 (75.71%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 13656 action points left
-      - FRUITS: 3
-      - SUGAR_CANE: 8
-      - QUARTZ: 402
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 12126 action points left
+      - SUGAR_CANE: 13
+      - FRUITS: 1
+      - QUARTZ: 401
+      - WOOD: 2002
       - RUM: 2
-      - WOOD: 2015
       - FUR: 105
-    - Using island week04, completed : WOOD,QUARTZ / 9641 action points left
+    - Using island week04, completed : WOOD,QUARTZ / 9740 action points left
       - QUARTZ: 105
       - WOOD: 4014
-    - Using island week05, completed : RUM,QUARTZ / 181 action points left
-      - SUGAR_CANE: 7
-      - FUR: 95
+    - Using island week05, completed : RUM,QUARTZ / 179 action points left
+      - FRUITS: 3
+      - FUR: 187
       - QUARTZ: 50
+      - SUGAR_CANE: 16
       - RUM: 40
-    - Using island week06, completed : WOOD,FRUITS,QUARTZ / 482 action points left
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ / 475 action points left
       - FRUITS: 41
       - WOOD: 1013
       - QUARTZ: 104
       - FLOWER: 282
-    - Using island week07, completed : WOOD,QUARTZ / 12060 action points left
+    - Using island week07, completed : WOOD,QUARTZ / 11915 action points left
       - QUARTZ: 102
       - WOOD: 3021
-    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 11596 action points left
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 11972 action points left
       - FUR: 202
       - RUM: 10
-      - SUGAR_CANE: 8
-      - FRUITS: 9
-      - QUARTZ: 101
+      - SUGAR_CANE: 15
+      - QUARTZ: 100
+      - FRUITS: 8
       - WOOD: 5031
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 10356 action points left
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 10493 action points left
       - FLOWER: 2
       - QUARTZ: 202
       - WOOD: 5010
-      - PLANK: 1000
-    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 1594 action points left
+      - PLANK: 1004
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 1712 action points left
       - QUARTZ: 22
-      - WOOD: 5036
+      - FUR: 3
+      - WOOD: 5003
       - LEATHER: 50
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 6883 action points left
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 6934 action points left
       - WOOD: 7038
       - SUGAR_CANE: 13
       - FRUITS: 4
       - FLOWER: 5
       - QUARTZ: 21
       - RUM: 5
-    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 2104 action points left
-      - FRUITS: 1
+    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 2202 action points left
+      - QUARTZ: 23
+      - FRUITS: 3
+      - SUGAR_CANE: 11
       - FUR: 1003
-      - SUGAR_CANE: 12
-      - QUARTZ: 20
       - WOOD: 4006
       - RUM: 5
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,RUM / 276 action points left
-      - WOOD: 5328
-      - FRUITS: 2
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,RUM / 274 action points left
+      - FRUITS: 3
+      - SUGAR_CANE: 402
+      - WOOD: 1500
       - QUARTZ: 21
-      - SUGAR_CANE: 411
       - RUM: 5
-    - Using island week14, completed : none / 180 action points left
-      - QUARTZ: 7
-      - WOOD: 19
-      - GLASS: 13
-    - Using island week15, completed : none / 175 action points left
+    - Using island week14, completed : GLASS,FLOWER / 171 action points left
+      - QUARTZ: 1
+      - FLOWER: 5
+      - FUR: 264
+      - GLASS: 15
+      - WOOD: 1
+    - Using island week15, completed : none / 174 action points left
       - QUARTZ: 178
-    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 8166 action points left
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 7125 action points left
       - QUARTZ: 5
-      - WOOD: 5020
       - FLOWER: 10
       - FUR: 15
       - GLASS: 10
-    - Using island week17, completed : GLASS,FUR,RUM / 582 action points left
-      - FUR: 500
+      - WOOD: 5033
+    - Using island week17, completed : GLASS,FUR,RUM / 572 action points left
+      - SUGAR_CANE: 13
       - GLASS: 20
-      - FRUITS: 5
+      - FRUITS: 7
       - RUM: 30
-      - QUARTZ: 6
-      - WOOD: 2124
-      - SUGAR_CANE: 9
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 7329 action points left
-      - FUR: 500
+      - WOOD: 366
+      - QUARTZ: 2
+      - FUR: 502
+    - Using island week18, completed : GLASS,FUR,FLOWER / 572 action points left
       - GLASS: 20
+      - WOOD: 2589
       - FLOWER: 12
-      - QUARTZ: 7
-      - WOOD: 3004
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 367 action points left
-      - SUGAR_CANE: 300
+      - QUARTZ: 3
+      - FUR: 503
+    - Using island week19, completed : SUGAR_CANE,FUR,FLOWER,WOOD / 377 action points left
+      - RUM: 29
       - FUR: 504
       - FLOWER: 12
-      - FRUITS: 2
+      - SUGAR_CANE: 312
       - WOOD: 3002
-      - RUM: 40
-    - Using island week20, completed : FUR,FLOWER / 367 action points left
+    - Using island week20, completed : FUR,FLOWER / 375 action points left
       - FLOWER: 1
       - FUR: 402
 
 ## Player ISG
   - Collected contracts: 65 (92.86%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 19887 action points left
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 19785 action points left
       - FUR: 103
       - FRUITS: 3
       - SUGAR_CANE: 8
       - RUM: 3
       - WOOD: 2019
       - QUARTZ: 400
-    - Using island week04, completed : WOOD,QUARTZ / 13783 action points left
+    - Using island week04, completed : WOOD,QUARTZ / 13762 action points left
       - QUARTZ: 102
       - WOOD: 4006
-    - Using island week05, completed : RUM,QUARTZ,FUR / 4550 action points left
+    - Using island week05, completed : RUM,QUARTZ,FUR / 4621 action points left
+      - FRUITS: 4
+      - RUM: 42
       - FUR: 504
-      - FRUITS: 2
       - QUARTZ: 53
       - SUGAR_CANE: 18
-      - RUM: 40
-    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 5390 action points left
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 5306 action points left
       - QUARTZ: 103
       - WOOD: 1028
       - FLOWER: 500
       - FRUITS: 44
-    - Using island week07, completed : WOOD,QUARTZ / 14800 action points left
+    - Using island week07, completed : WOOD,QUARTZ / 14847 action points left
       - QUARTZ: 101
       - WOOD: 3025
-    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 20098 action points left
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 20106 action points left
       - WOOD: 5038
       - RUM: 10
       - QUARTZ: 104
       - FRUITS: 9
       - SUGAR_CANE: 14
       - FUR: 201
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 19028 action points left
-      - WOOD: 5000
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 19049 action points left
+      - WOOD: 5012
       - QUARTZ: 202
       - FLOWER: 2
-      - PLANK: 1078
-    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 8797 action points left
+      - PLANK: 1004
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 8754 action points left
       - QUARTZ: 24
-      - FUR: 4
-      - WOOD: 5012
-      - LEATHER: 54
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 9356 action points left
+      - WOOD: 5009
+      - LEATHER: 50
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 9271 action points left
+      - RUM: 6
       - FRUITS: 3
       - SUGAR_CANE: 8
       - QUARTZ: 25
       - WOOD: 7030
       - FLOWER: 5
-      - RUM: 5
-    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 7614 action points left
+    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 7609 action points left
       - FUR: 1001
       - FRUITS: 8
       - QUARTZ: 20
       - WOOD: 4015
       - SUGAR_CANE: 4
       - RUM: 5
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 4258 action points left
-      - FRUITS: 3
-      - SUGAR_CANE: 409
-      - QUARTZ: 24
-      - WOOD: 7037
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 4328 action points left
+      - FRUITS: 5
+      - WOOD: 7002
+      - QUARTZ: 21
+      - SUGAR_CANE: 411
       - RUM: 5
-    - Using island week14, completed : GLASS,FUR,FLOWER / 1984 action points left
+    - Using island week14, completed : GLASS,FUR,FLOWER / 1911 action points left
       - WOOD: 21
       - QUARTZ: 2
       - FLOWER: 5
       - FUR: 505
-      - GLASS: 16
-    - Using island week15, completed : WOOD,GLASS,FUR,SUGAR_CANE / 1811 action points left
-      - GLASS: 17
+      - GLASS: 15
+    - Using island week15, completed : WOOD,GLASS,FUR,SUGAR_CANE / 1756 action points left
       - FUR: 500
       - QUARTZ: 5
       - WOOD: 512
       - SUGAR_CANE: 417
-    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 8945 action points left
+      - GLASS: 15
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 9070 action points left
       - WOOD: 5015
       - FUR: 18
       - FLOWER: 11
       - GLASS: 10
-    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 8423 action points left
+    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 8507 action points left
       - FUR: 500
-      - GLASS: 20
-      - FRUITS: 5
-      - WOOD: 15039
+      - QUARTZ: 5
+      - RUM: 30
+      - GLASS: 21
+      - FRUITS: 2
+      - WOOD: 15009
+      - SUGAR_CANE: 4
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 16662 action points left
+      - GLASS: 21
       - QUARTZ: 2
-      - RUM: 33
-      - SUGAR_CANE: 22
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 17301 action points left
-      - GLASS: 20
-      - WOOD: 3025
-      - FLOWER: 12
+      - FLOWER: 13
       - FUR: 502
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 7490 action points left
-      - SUGAR_CANE: 300
+      - WOOD: 3008
+    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 7599 action points left
+      - RUM: 43
+      - FRUITS: 3
+      - SUGAR_CANE: 310
       - FLOWER: 12
       - FUR: 502
       - WOOD: 3033
-      - RUM: 40
-    - Using island week20, completed : WOOD,FUR,FLOWER / 277 action points left
-      - FUR: 1946
+    - Using island week20, completed : WOOD,FUR,FLOWER / 282 action points left
+      - FUR: 1941
       - FLOWER: 1
       - WOOD: 5034
 
 ## Player ISH
   - Collected contracts: 54 (77.14%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 20557 action points left
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 20607 action points left
       - FUR: 100
-      - FRUITS: 4
+      - FRUITS: 6
       - QUARTZ: 401
       - WOOD: 2013
+      - SUGAR_CANE: 12
       - RUM: 2
-      - SUGAR_CANE: 20
-    - Using island week04, completed : WOOD,QUARTZ / 13341 action points left
+    - Using island week04, completed : WOOD,QUARTZ / 13356 action points left
       - WOOD: 4010
       - QUARTZ: 102
-    - Using island week05, completed : RUM,FUR / 3060 action points left
-      - FRUITS: 3
-      - SUGAR_CANE: 191
+    - Using island week05, completed : RUM,FUR / 2987 action points left
+      - RUM: 43
+      - SUGAR_CANE: 201
       - FUR: 502
       - QUARTZ: 11
-      - RUM: 40
-    - Using island week06, completed : WOOD,FRUITS,QUARTZ / 12687 action points left
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ / 12714 action points left
       - WOOD: 1005
       - FLOWER: 244
       - QUARTZ: 101
       - FRUITS: 41
-    - Using island week07, completed : WOOD / 13625 action points left
+    - Using island week07, completed : WOOD / 13523 action points left
       - WOOD: 3028
       - QUARTZ: 38
-    - Using island week08, completed : WOOD,RUM / 21914 action points left
+    - Using island week08, completed : WOOD,RUM / 21802 action points left
       - SUGAR_CANE: 3
       - RUM: 10
       - QUARTZ: 82
-      - FRUITS: 5
+      - FRUITS: 7
       - WOOD: 5020
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 9771 action points left
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 9845 action points left
       - FLOWER: 2
       - WOOD: 5022
       - QUARTZ: 200
-      - PLANK: 3867
-    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 6605 action points left
+      - PLANK: 3763
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 6593 action points left
       - QUARTZ: 20
+      - FUR: 3
       - WOOD: 5022
-      - LEATHER: 51
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 10396 action points left
+      - LEATHER: 52
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 10377 action points left
       - SUGAR_CANE: 41
       - FRUITS: 6
       - FLOWER: 5
       - QUARTZ: 20
       - WOOD: 7004
       - RUM: 5
-    - Using island week12, completed : WOOD,QUARTZ,RUM / 13034 action points left
+    - Using island week12, completed : WOOD,QUARTZ,RUM / 12985 action points left
       - QUARTZ: 23
       - WOOD: 4012
       - FRUITS: 5
       - SUGAR_CANE: 11
       - RUM: 5
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 4488 action points left
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 4582 action points left
       - QUARTZ: 22
-      - RUM: 6
-      - FRUITS: 7
-      - SUGAR_CANE: 404
-      - WOOD: 7012
-    - Using island week14, completed : FUR / 59 action points left
+      - WOOD: 7013
+      - FRUITS: 9
+      - SUGAR_CANE: 403
+      - RUM: 5
+    - Using island week14, completed : FUR / 56 action points left
       - FUR: 504
       - WOOD: 118
       - QUARTZ: 52
-    - Using island week15, completed : GLASS,FUR,SUGAR_CANE / 68 action points left
+    - Using island week15, completed : GLASS,FUR,SUGAR_CANE / 77 action points left
       - SUGAR_CANE: 413
-      - WOOD: 447
+      - QUARTZ: 2
       - FUR: 505
       - GLASS: 16
-    - Using island week16, completed : WOOD,GLASS,FLOWER / 4377 action points left
+      - WOOD: 437
+    - Using island week16, completed : WOOD,GLASS,FLOWER / 4466 action points left
       - WOOD: 5038
       - QUARTZ: 3
-      - GLASS: 11
       - FUR: 10
       - FLOWER: 10
-    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 9120 action points left
-      - WOOD: 15027
-      - QUARTZ: 5
+      - GLASS: 10
+    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 9324 action points left
       - GLASS: 20
       - FUR: 504
+      - QUARTZ: 1
       - FRUITS: 2
       - RUM: 31
       - SUGAR_CANE: 112
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 16215 action points left
+      - WOOD: 15013
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 16103 action points left
       - WOOD: 3032
+      - GLASS: 20
       - FUR: 501
       - FLOWER: 12
-      - GLASS: 21
       - QUARTZ: 49
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 11381 action points left
+    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 11434 action points left
       - WOOD: 3013
       - FRUITS: 4
       - FUR: 504
       - SUGAR_CANE: 310
       - FLOWER: 12
       - RUM: 40
-    - Using island week20, completed : FLOWER,LEATHER / 73 action points left
-      - FUR: 113
+    - Using island week20, completed : FLOWER,LEATHER / 78 action points left
+      - FUR: 140
       - WOOD: 342
       - FLOWER: 1
-      - LEATHER: 1001
+      - LEATHER: 1079
 
 ## Player ISI
   - Collected contracts: 64 (91.43%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,RUM / 19390 action points left
+    - Using island week03, completed : WOOD,FUR,RUM / 18869 action points left
       - FUR: 104
-      - SUGAR_CANE: 8
-      - FRUITS: 7
-      - WOOD: 2019
-      - QUARTZ: 362
-      - RUM: 2
-    - Using island week04, completed : WOOD,QUARTZ / 15789 action points left
+      - FRUITS: 6
+      - QUARTZ: 393
+      - RUM: 3
+      - WOOD: 2010
+      - SUGAR_CANE: 4
+    - Using island week04, completed : WOOD,QUARTZ / 15766 action points left
       - QUARTZ: 100
       - WOOD: 4013
-    - Using island week05, completed : RUM,QUARTZ,FUR / 6482 action points left
+    - Using island week05, completed : RUM,QUARTZ,FUR / 6204 action points left
       - QUARTZ: 56
-      - SUGAR_CANE: 13
-      - FRUITS: 4
-      - RUM: 42
       - FUR: 501
-    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 11241 action points left
+      - FRUITS: 1
+      - SUGAR_CANE: 9
+      - RUM: 40
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 11279 action points left
       - WOOD: 1031
       - FLOWER: 500
       - QUARTZ: 102
       - FRUITS: 46
-    - Using island week07, completed : WOOD,QUARTZ / 16141 action points left
+    - Using island week07, completed : WOOD,QUARTZ / 16101 action points left
       - QUARTZ: 101
       - WOOD: 3035
-    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 20533 action points left
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 20518 action points left
       - QUARTZ: 102
-      - RUM: 10
       - FRUITS: 7
       - FUR: 204
       - WOOD: 5005
+      - RUM: 11
       - SUGAR_CANE: 16
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 22086 action points left
-      - WOOD: 5011
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 22010 action points left
+      - WOOD: 5018
       - FLOWER: 2
       - QUARTZ: 204
-      - PLANK: 1001
-    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 9529 action points left
+      - PLANK: 1095
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 9442 action points left
       - QUARTZ: 24
       - WOOD: 5004
-      - FUR: 4
+      - FUR: 1
       - LEATHER: 50
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 13347 action points left
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 13287 action points left
       - FRUITS: 1
       - SUGAR_CANE: 8
       - FLOWER: 5
       - QUARTZ: 20
       - WOOD: 7012
       - RUM: 5
-    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 9328 action points left
+    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 9266 action points left
       - QUARTZ: 23
       - FUR: 1004
       - WOOD: 4014
       - FRUITS: 8
       - RUM: 5
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 7029 action points left
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 7070 action points left
       - RUM: 6
       - WOOD: 7019
       - QUARTZ: 20
       - SUGAR_CANE: 408
-    - Using island week14, completed : GLASS,FUR,FLOWER / 3067 action points left
-      - WOOD: 35
+    - Using island week14, completed : GLASS,FUR,FLOWER / 3160 action points left
+      - WOOD: 30
       - QUARTZ: 2
       - FLOWER: 5
       - FUR: 503
       - GLASS: 15
-    - Using island week15, completed : WOOD,GLASS,FUR,SUGAR_CANE / 5180 action points left
-      - WOOD: 503
+    - Using island week15, completed : WOOD,GLASS,FUR,SUGAR_CANE / 5363 action points left
+      - GLASS: 17
+      - WOOD: 523
       - QUARTZ: 3
       - FUR: 502
       - SUGAR_CANE: 408
-      - GLASS: 15
-    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 12455 action points left
-      - QUARTZ: 1
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 12252 action points left
+      - QUARTZ: 4
       - FLOWER: 10
-      - GLASS: 12
       - FUR: 15
-      - WOOD: 5014
-    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 14110 action points left
+      - WOOD: 5011
+      - GLASS: 10
+    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 14213 action points left
+      - GLASS: 20
       - FUR: 504
       - WOOD: 15022
       - FRUITS: 2
       - SUGAR_CANE: 11
       - QUARTZ: 2
       - RUM: 31
-      - GLASS: 22
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 19628 action points left
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 19715 action points left
       - QUARTZ: 5
-      - GLASS: 20
       - FUR: 501
       - FLOWER: 12
       - WOOD: 3024
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 11399 action points left
+      - GLASS: 22
+    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 11143 action points left
       - FUR: 500
-      - WOOD: 3038
-      - SUGAR_CANE: 319
-      - FRUITS: 5
-      - FLOWER: 12
-      - RUM: 40
-    - Using island week20, completed : WOOD,FUR,FLOWER / 9183 action points left
+      - RUM: 43
+      - WOOD: 3035
+      - SUGAR_CANE: 309
+      - FLOWER: 13
+      - FRUITS: 8
+    - Using island week20, completed : WOOD,FUR,FLOWER / 9258 action points left
       - FUR: 401
       - WOOD: 5009
       - FLOWER: 1
 
 ## Player ISJ
-  - Collected contracts: 45 (64.29%)
+  - Collected contracts: 46 (65.71%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 13965 action points left
-      - SUGAR_CANE: 7
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 14234 action points left
+      - FUR: 103
+      - SUGAR_CANE: 8
       - FRUITS: 8
       - RUM: 2
-      - WOOD: 2015
+      - WOOD: 2006
       - QUARTZ: 405
-      - FUR: 102
-    - Using island week04, completed : WOOD,QUARTZ / 9624 action points left
+    - Using island week04, completed : WOOD,QUARTZ / 9643 action points left
       - WOOD: 4007
       - QUARTZ: 101
-    - Using island week05, completed : QUARTZ,FUR / 2906 action points left
-      - FUR: 500
-      - QUARTZ: 52
-      - SUGAR_CANE: 87
-      - RUM: 29
-      - FRUITS: 13
-    - Using island week06, completed : WOOD,QUARTZ / 400 action points left
-      - WOOD: 1028
-      - FLOWER: 337
-      - QUARTZ: 101
-    - Using island week07, completed : none / 7009 action points left
-      - QUARTZ: 97
+    - Using island week05, completed : RUM,QUARTZ,FUR / 1501 action points left
+      - FRUITS: 1
+      - QUARTZ: 53
+      - FUR: 502
+      - SUGAR_CANE: 4
+      - RUM: 40
+    - Using island week06, completed : WOOD,QUARTZ / 341 action points left
+      - WOOD: 1002
+      - QUARTZ: 100
+      - FLOWER: 344
+    - Using island week07, completed : none / 7011 action points left
       - WOOD: 2864
-    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 3529 action points left
-      - QUARTZ: 102
+      - QUARTZ: 97
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 2524 action points left
       - RUM: 10
-      - FRUITS: 2
-      - WOOD: 5020
+      - FRUITS: 5
+      - QUARTZ: 100
       - SUGAR_CANE: 1
       - FUR: 200
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 7731 action points left
+      - WOOD: 5014
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 7891 action points left
       - FLOWER: 2
-      - WOOD: 5007
+      - WOOD: 5016
       - QUARTZ: 204
-      - PLANK: 1087
-    - Using island week10, completed : WOOD,QUARTZ / 412 action points left
+      - PLANK: 1093
+    - Using island week10, completed : WOOD,QUARTZ / 419 action points left
       - QUARTZ: 22
-      - FUR: 30
+      - FUR: 6
       - WOOD: 5006
-      - LEATHER: 29
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 4195 action points left
-      - SUGAR_CANE: 3
-      - FRUITS: 3
-      - WOOD: 7028
+      - LEATHER: 38
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 5579 action points left
+      - WOOD: 7027
+      - SUGAR_CANE: 13
+      - FRUITS: 4
       - FLOWER: 5
       - QUARTZ: 21
       - RUM: 5
-    - Using island week12, completed : FUR,QUARTZ / 370 action points left
+    - Using island week12, completed : FUR,QUARTZ / 373 action points left
       - FUR: 1001
       - QUARTZ: 20
       - WOOD: 3774
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,RUM / 452 action points left
-      - FRUITS: 3
-      - SUGAR_CANE: 406
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,RUM / 453 action points left
+      - FRUITS: 4
+      - SUGAR_CANE: 402
+      - WOOD: 5775
       - QUARTZ: 21
-      - WOOD: 5195
       - RUM: 5
-    - Using island week14, completed : FUR / 471 action points left
+    - Using island week14, completed : FUR / 461 action points left
       - FUR: 505
       - WOOD: 343
-      - QUARTZ: 17
+      - QUARTZ: 15
       - GLASS: 9
-    - Using island week15, completed : none / 475 action points left
-      - FUR: 353
+    - Using island week15, completed : none / 464 action points left
+      - FUR: 343
       - WOOD: 207
       - SUGAR_CANE: 51
-    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 3010 action points left
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 3056 action points left
+      - QUARTZ: 1
       - FLOWER: 10
       - FUR: 15
       - GLASS: 10
-      - WOOD: 5037
-    - Using island week17, completed : GLASS,RUM / 329 action points left
+      - WOOD: 5014
+    - Using island week17, completed : GLASS,RUM / 311 action points left
+      - WOOD: 6590
       - GLASS: 20
-      - FRUITS: 1
+      - FRUITS: 6
       - RUM: 30
-      - FUR: 207
+      - FUR: 160
       - QUARTZ: 3
-      - SUGAR_CANE: 20
-      - WOOD: 5019
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 10887 action points left
+      - SUGAR_CANE: 9
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 11651 action points left
       - GLASS: 20
       - FUR: 501
-      - WOOD: 3035
-      - QUARTZ: 1
+      - FLOWER: 13
+      - WOOD: 3020
+    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 1483 action points left
+      - SUGAR_CANE: 311
+      - FRUITS: 6
       - FLOWER: 12
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 1695 action points left
-      - SUGAR_CANE: 300
-      - FRUITS: 7
-      - FLOWER: 12
-      - WOOD: 3022
       - FUR: 502
       - RUM: 40
-    - Using island week20, completed : none / 458 action points left
-      - FUR: 17
-      - LEATHER: 625
+      - WOOD: 3021
+    - Using island week20, completed : none / 459 action points left
+      - FUR: 2
+      - LEATHER: 631
 
 ## Player ISK
   - Collected contracts: 21 (30.00%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR / 134 action points left
+    - Using island week03, completed : WOOD,FUR / 133 action points left
       - FUR: 104
       - WOOD: 2022
       - QUARTZ: 265
-    - Using island week04, completed : QUARTZ / 10691 action points left
+    - Using island week04, completed : QUARTZ / 10518 action points left
       - WOOD: 3857
       - QUARTZ: 101
-    - Using island week05, completed : QUARTZ / 3726 action points left
+    - Using island week05, completed : QUARTZ / 3708 action points left
       - FUR: 101
       - QUARTZ: 51
-    - Using island week06, completed : WOOD / 119 action points left
+    - Using island week06, completed : WOOD / 125 action points left
       - WOOD: 1006
       - FLOWER: 125
-    - Using island week07, completed : none / 14803 action points left
+    - Using island week07, completed : none / 14791 action points left
       - WOOD: 1744
-    - Using island week08, completed : WOOD / 133 action points left
+    - Using island week08, completed : WOOD / 123 action points left
       - WOOD: 5033
-      - QUARTZ: 6
-    - Using island week09, completed : FLOWER,QUARTZ / 24071 action points left
+      - QUARTZ: 26
+    - Using island week09, completed : FLOWER,QUARTZ / 24059 action points left
       - QUARTZ: 204
       - WOOD: 1721
       - FLOWER: 2
-    - Using island week10, completed : QUARTZ / 5150 action points left
+    - Using island week10, completed : QUARTZ / 5085 action points left
       - WOOD: 3842
       - QUARTZ: 21
-    - Using island week11, completed : FLOWER,QUARTZ / 132 action points left
-      - WOOD: 6665
+    - Using island week11, completed : FLOWER,QUARTZ / 123 action points left
+      - WOOD: 6727
       - FLOWER: 5
       - QUARTZ: 21
-    - Using island week12, completed : WOOD,QUARTZ / 1405 action points left
+    - Using island week12, completed : WOOD,QUARTZ / 1545 action points left
       - FUR: 76
       - QUARTZ: 23
       - WOOD: 4024
-    - Using island week13, completed : QUARTZ / 129 action points left
+    - Using island week13, completed : QUARTZ / 121 action points left
       - QUARTZ: 20
-      - WOOD: 2662
+      - WOOD: 2773
       - SUGAR_CANE: 39
-    - Using island week14, completed : FUR / 128 action points left
+    - Using island week14, completed : FUR / 132 action points left
       - FUR: 501
-      - WOOD: 86
-    - Using island week15, completed : WOOD / 3228 action points left
+      - WOOD: 65
+    - Using island week15, completed : WOOD / 3170 action points left
       - FUR: 93
       - WOOD: 507
       - SUGAR_CANE: 317
-    - Using island week16, completed : FLOWER / 10115 action points left
+    - Using island week16, completed : FLOWER / 9984 action points left
       - FLOWER: 10
       - WOOD: 2770
-    - Using island week17, completed : none / 134 action points left
-      - WOOD: 10369
+    - Using island week17, completed : none / 137 action points left
+      - WOOD: 10326
       - FUR: 119
-    - Using island week18, completed : FLOWER / 25685 action points left
+    - Using island week18, completed : FLOWER / 25652 action points left
       - WOOD: 850
       - FUR: 96
       - FLOWER: 12
-    - Using island week19, completed : SUGAR_CANE,FLOWER / 8781 action points left
+    - Using island week19, completed : SUGAR_CANE,FLOWER / 8821 action points left
       - FLOWER: 12
       - WOOD: 2728
       - SUGAR_CANE: 320
       - FUR: 10
-    - Using island week20, completed : FLOWER / 12967 action points left
+    - Using island week20, completed : FLOWER / 12921 action points left
       - FUR: 387
       - FLOWER: 1
       - WOOD: 956
@@ -1123,420 +1140,448 @@
 ## Player ISL
   - Collected contracts: 60 (85.71%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 20725 action points left
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 20630 action points left
       - FUR: 100
       - FRUITS: 2
       - WOOD: 2023
       - QUARTZ: 402
       - RUM: 2
       - SUGAR_CANE: 16
-    - Using island week04, completed : WOOD,QUARTZ / 11917 action points left
+    - Using island week04, completed : WOOD,QUARTZ / 11924 action points left
       - QUARTZ: 103
       - WOOD: 4006
-    - Using island week05, completed : RUM,QUARTZ,FUR / 4398 action points left
-      - FUR: 500
-      - RUM: 46
-      - SUGAR_CANE: 8
+    - Using island week05, completed : RUM,QUARTZ,FUR / 4215 action points left
+      - RUM: 48
       - QUARTZ: 53
+      - FUR: 502
       - FRUITS: 10
-    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 6571 action points left
+      - SUGAR_CANE: 9
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 6480 action points left
       - WOOD: 1041
       - FLOWER: 502
       - QUARTZ: 101
       - FRUITS: 40
-    - Using island week07, completed : WOOD,QUARTZ / 13393 action points left
+    - Using island week07, completed : WOOD,QUARTZ / 13360 action points left
       - QUARTZ: 102
       - WOOD: 3028
-    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 20109 action points left
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 20102 action points left
       - QUARTZ: 102
       - RUM: 10
       - FUR: 203
+      - FRUITS: 2
       - SUGAR_CANE: 11
       - WOOD: 5011
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 17818 action points left
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 17664 action points left
       - WOOD: 5016
       - QUARTZ: 201
       - FLOWER: 2
-      - PLANK: 1033
-    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 5429 action points left
+      - PLANK: 1161
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 5459 action points left
       - QUARTZ: 22
       - WOOD: 5002
-      - LEATHER: 60
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 10001 action points left
-      - FRUITS: 5
+      - LEATHER: 55
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 10261 action points left
+      - SUGAR_CANE: 5
+      - WOOD: 7024
+      - FRUITS: 9
       - FLOWER: 5
-      - QUARTZ: 20
-      - WOOD: 7012
-      - SUGAR_CANE: 4
+      - QUARTZ: 21
       - RUM: 5
-    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 5939 action points left
+    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 5910 action points left
       - FUR: 1004
-      - SUGAR_CANE: 2
+      - SUGAR_CANE: 13
       - WOOD: 4025
-      - FRUITS: 2
+      - FRUITS: 5
       - QUARTZ: 20
       - RUM: 5
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 3313 action points left
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 3389 action points left
       - SUGAR_CANE: 400
       - FRUITS: 9
       - QUARTZ: 24
       - WOOD: 7000
       - RUM: 5
-    - Using island week14, completed : GLASS,FUR / 387 action points left
+    - Using island week14, completed : GLASS,FUR / 389 action points left
       - FUR: 500
       - WOOD: 1819
       - QUARTZ: 2
-      - GLASS: 18
-    - Using island week15, completed : FUR,SUGAR_CANE / 381 action points left
+      - GLASS: 16
+    - Using island week15, completed : FUR,SUGAR_CANE / 379 action points left
       - FUR: 503
       - SUGAR_CANE: 410
-      - WOOD: 450
+      - WOOD: 488
       - QUARTZ: 30
-    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 9337 action points left
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 9472 action points left
       - FUR: 19
-      - QUARTZ: 2
+      - QUARTZ: 3
+      - WOOD: 5039
       - FLOWER: 10
-      - GLASS: 12
-      - WOOD: 5033
-    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 4853 action points left
+      - GLASS: 10
+    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 4828 action points left
       - FUR: 504
-      - GLASS: 24
-      - RUM: 34
       - QUARTZ: 3
       - SUGAR_CANE: 14
       - WOOD: 15026
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 14139 action points left
-      - GLASS: 24
+      - RUM: 33
+      - GLASS: 22
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 14197 action points left
       - FLOWER: 12
       - FUR: 502
       - WOOD: 3016
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 8351 action points left
-      - SUGAR_CANE: 301
+      - GLASS: 23
+    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 8508 action points left
+      - WOOD: 3011
       - RUM: 43
+      - FUR: 501
       - FLOWER: 12
       - FRUITS: 2
-      - WOOD: 3030
-      - FUR: 502
-    - Using island week20, completed : FUR / 575 action points left
+      - SUGAR_CANE: 308
+    - Using island week20, completed : FUR / 607 action points left
       - FUR: 3451
 
 ## Player ISM
-  - Collected contracts: 33 (47.14%)
+  - Collected contracts: 34 (48.57%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 10273 action points left
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 10360 action points left
       - SUGAR_CANE: 3
       - WOOD: 2021
+      - RUM: 3
       - QUARTZ: 401
       - FUR: 106
-      - RUM: 2
       - FRUITS: 10
-    - Using island week04, completed : WOOD,QUARTZ / 6128 action points left
+    - Using island week04, completed : WOOD,QUARTZ / 6090 action points left
       - QUARTZ: 104
       - WOOD: 4022
-    - Using island week05, completed : QUARTZ / 460 action points left
+    - Using island week05, completed : QUARTZ / 463 action points left
       - FUR: 413
       - QUARTZ: 51
       - SUGAR_CANE: 620
       - FRUITS: 46
-    - Using island week06, completed : WOOD,FRUITS,QUARTZ / 443 action points left
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ / 424 action points left
       - WOOD: 1001
       - FRUITS: 44
       - FLOWER: 257
       - QUARTZ: 103
-    - Using island week07, completed : WOOD / 384 action points left
+    - Using island week07, completed : WOOD / 416 action points left
       - WOOD: 3033
       - QUARTZ: 74
-    - Using island week08, completed : QUARTZ / 410 action points left
-      - WOOD: 2624
+    - Using island week08, completed : QUARTZ / 404 action points left
       - SUGAR_CANE: 152
+      - WOOD: 2795
       - FRUITS: 29
       - QUARTZ: 101
       - FUR: 167
-    - Using island week09, completed : FLOWER,QUARTZ / 240 action points left
+    - Using island week09, completed : FLOWER,QUARTZ / 252 action points left
       - FLOWER: 3
       - QUARTZ: 201
       - WOOD: 3338
-    - Using island week10, completed : WOOD,QUARTZ / 434 action points left
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 429 action points left
       - QUARTZ: 22
-      - FUR: 256
+      - FUR: 6
       - WOOD: 5034
-    - Using island week11, completed : FLOWER,QUARTZ / 471 action points left
+      - LEATHER: 89
+    - Using island week11, completed : FLOWER,QUARTZ / 473 action points left
       - WOOD: 1936
       - FRUITS: 19
       - FLOWER: 6
       - QUARTZ: 24
       - SUGAR_CANE: 76
-    - Using island week12, completed : FUR,QUARTZ / 439 action points left
+    - Using island week12, completed : FUR,QUARTZ / 418 action points left
       - WOOD: 2430
       - FUR: 1002
       - QUARTZ: 24
       - FRUITS: 12
       - SUGAR_CANE: 76
-    - Using island week13, completed : QUARTZ / 431 action points left
+    - Using island week13, completed : QUARTZ / 442 action points left
       - WOOD: 4020
       - FRUITS: 17
       - QUARTZ: 22
-    - Using island week14, completed : FLOWER / 470 action points left
-      - WOOD: 900
+    - Using island week14, completed : FLOWER / 460 action points left
+      - WOOD: 942
       - FLOWER: 6
       - FUR: 75
       - QUARTZ: 151
-    - Using island week15, completed : none / 456 action points left
-      - FUR: 162
-      - QUARTZ: 23
-    - Using island week16, completed : FUR,FLOWER / 412 action points left
+    - Using island week15, completed : none / 451 action points left
+      - FUR: 152
+      - QUARTZ: 21
+    - Using island week16, completed : FUR,FLOWER / 401 action points left
       - FLOWER: 11
       - QUARTZ: 154
       - WOOD: 710
       - FUR: 16
-    - Using island week17, completed : FUR / 325 action points left
+    - Using island week17, completed : FUR / 275 action points left
       - WOOD: 1039
       - FUR: 504
       - SUGAR_CANE: 456
       - QUARTZ: 304
       - FRUITS: 64
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 2877 action points left
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 2907 action points left
+      - GLASS: 28
       - QUARTZ: 1
       - FLOWER: 13
       - FUR: 505
-      - GLASS: 30
       - WOOD: 3024
-    - Using island week19, completed : SUGAR_CANE,FUR,FLOWER / 460 action points left
+    - Using island week19, completed : SUGAR_CANE,FUR,FLOWER / 465 action points left
       - SUGAR_CANE: 459
       - FLOWER: 13
       - FRUITS: 82
       - FUR: 502
       - WOOD: 2549
-    - Using island week20, completed : FLOWER / 438 action points left
+    - Using island week20, completed : FLOWER / 433 action points left
       - WOOD: 4824
       - FLOWER: 2
       - FUR: 223
 
 ## Player ISN
-  - Collected contracts: 12 (17.14%)
+  - Collected contracts: 36 (51.43%)
   - Detailed results:
-    - Using island week03, completed : none / 26566 action points left
-      - WOOD: 122
-    - Using island week04, completed : none / 16757 action points left
-    - Using island week05, completed : none / 7514 action points left
-      - FUR: 48
-    - Using island week06, completed : none / 21679 action points left
-    - Using island week07, completed : none / 17945 action points left
-    - Using island week08, completed : none / 25219 action points left
-      - FUR: 7
-    - Using island week09, completed : FLOWER / 21971 action points left
-      - FLOWER: 2
-      - WOOD: 112
-      - QUARTZ: 18
-      - PLANK: 473
-    - Using island week10, completed : none / 11182 action points left
-    - Using island week11, completed : none / 16525 action points left
-      - WOOD: 163
-    - Using island week12, completed : none / 15343 action points left
-      - QUARTZ: 19
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 1995 action points left
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 16179 action points left
+      - FUR: 100
       - FRUITS: 2
+      - SUGAR_CANE: 1
+      - RUM: 2
+      - QUARTZ: 400
+      - WOOD: 2006
+    - Using island week04, completed : none / 16740 action points left
+    - Using island week05, completed : RUM,QUARTZ,FUR / 1726 action points left
+      - QUARTZ: 52
+      - FUR: 502
+      - SUGAR_CANE: 9
+      - FRUITS: 18
+      - RUM: 40
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 3114 action points left
+      - WOOD: 1028
+      - QUARTZ: 100
+      - FLOWER: 501
+      - FRUITS: 41
+    - Using island week07, completed : none / 17954 action points left
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 16285 action points left
+      - QUARTZ: 102
+      - RUM: 10
+      - FUR: 203
+      - FRUITS: 11
+      - SUGAR_CANE: 12
+      - WOOD: 5039
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 13214 action points left
+      - FLOWER: 2
+      - WOOD: 5012
+      - QUARTZ: 201
+      - PLANK: 1002
+    - Using island week10, completed : none / 11128 action points left
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 9002 action points left
+      - FRUITS: 7
+      - QUARTZ: 24
+      - FLOWER: 5
+      - SUGAR_CANE: 42
+      - WOOD: 7011
+      - RUM: 5
+    - Using island week12, completed : none / 15387 action points left
+      - QUARTZ: 13
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 2090 action points left
+      - FRUITS: 4
       - WOOD: 7002
       - QUARTZ: 24
       - SUGAR_CANE: 411
       - RUM: 5
-    - Using island week14, completed : none / 7422 action points left
-      - FUR: 10
-    - Using island week15, completed : none / 7316 action points left
-      - FUR: 41
-    - Using island week16, completed : none / 15486 action points left
-      - FLOWER: 1
-      - WOOD: 42
-    - Using island week17, completed : GLASS,FUR,RUM / 6136 action points left
+    - Using island week14, completed : none / 7242 action points left
+      - FUR: 64
+    - Using island week15, completed : FUR,SUGAR_CANE / 167 action points left
+      - QUARTZ: 23
+      - SUGAR_CANE: 402
+      - GLASS: 11
+      - FUR: 502
+      - WOOD: 69
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 5156 action points left
+      - FUR: 17
+      - FLOWER: 11
+      - WOOD: 5012
+      - QUARTZ: 41
+      - GLASS: 10
+    - Using island week17, completed : GLASS,FUR,RUM / 6400 action points left
       - FUR: 500
+      - FRUITS: 14
       - GLASS: 20
-      - WOOD: 1621
-      - QUARTZ: 1
+      - WOOD: 1626
       - RUM: 30
-      - FRUITS: 18
-      - SUGAR_CANE: 210
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 5780 action points left
-      - GLASS: 20
-      - WOOD: 3037
-      - FLOWER: 13
-      - QUARTZ: 6
-      - FUR: 503
-    - Using island week19, completed : none / 13132 action points left
-    - Using island week20, completed : none / 13036 action points left
+      - QUARTZ: 11
+      - SUGAR_CANE: 170
+    - Using island week18, completed : none / 22401 action points left
+      - FUR: 70
+    - Using island week19, completed : none / 13127 action points left
+    - Using island week20, completed : none / 13190 action points left
 
 ## Player ISO
   - Collected contracts: 61 (87.14%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 20833 action points left
+    - Using island week03, completed : WOOD,FUR,QUARTZ,RUM / 20926 action points left
       - FUR: 103
       - RUM: 3
       - QUARTZ: 401
       - WOOD: 2011
       - SUGAR_CANE: 12
-    - Using island week04, completed : WOOD,QUARTZ / 11985 action points left
+    - Using island week04, completed : WOOD,QUARTZ / 12066 action points left
       - QUARTZ: 102
       - WOOD: 4040
-    - Using island week05, completed : RUM,QUARTZ,FUR / 3739 action points left
+    - Using island week05, completed : RUM,QUARTZ,FUR / 3796 action points left
       - QUARTZ: 52
-      - RUM: 46
+      - RUM: 43
       - SUGAR_CANE: 15
       - FRUITS: 8
       - FUR: 503
-    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 5243 action points left
+    - Using island week06, completed : WOOD,FRUITS,QUARTZ,FLOWER / 5298 action points left
       - FLOWER: 500
       - WOOD: 1012
       - FRUITS: 40
       - QUARTZ: 104
-    - Using island week07, completed : WOOD,QUARTZ / 13830 action points left
+    - Using island week07, completed : WOOD,QUARTZ / 13743 action points left
       - QUARTZ: 100
       - WOOD: 3038
-    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 18822 action points left
+    - Using island week08, completed : WOOD,RUM,FUR,QUARTZ / 18896 action points left
       - FUR: 205
       - WOOD: 5016
       - FRUITS: 5
-      - RUM: 12
+      - RUM: 11
       - SUGAR_CANE: 19
       - QUARTZ: 103
-    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 19961 action points left
+    - Using island week09, completed : WOOD,PLANK,FLOWER,QUARTZ / 19941 action points left
       - WOOD: 5047
       - FLOWER: 2
       - QUARTZ: 200
-      - PLANK: 3622
-    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 6305 action points left
+      - PLANK: 3804
+    - Using island week10, completed : WOOD,LEATHER,QUARTZ / 6442 action points left
       - QUARTZ: 23
       - WOOD: 5000
-      - LEATHER: 62
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 11023 action points left
+      - LEATHER: 74
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ,RUM / 10939 action points left
       - RUM: 6
       - FRUITS: 4
       - WOOD: 7002
       - FLOWER: 5
       - QUARTZ: 20
       - SUGAR_CANE: 14
-    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 7788 action points left
+    - Using island week12, completed : WOOD,FUR,QUARTZ,RUM / 7583 action points left
       - RUM: 6
       - FRUITS: 4
       - FUR: 1003
       - SUGAR_CANE: 12
       - QUARTZ: 20
       - WOOD: 4040
-    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 4894 action points left
+    - Using island week13, completed : SUGAR_CANE,QUARTZ,WOOD,RUM / 4873 action points left
       - RUM: 6
       - FRUITS: 8
       - SUGAR_CANE: 401
       - QUARTZ: 20
       - WOOD: 7004
-    - Using island week14, completed : FLOWER / 522 action points left
+    - Using island week14, completed : FLOWER / 520 action points left
       - FUR: 393
       - QUARTZ: 166
       - FLOWER: 5
-      - WOOD: 1821
-    - Using island week15, completed : WOOD,GLASS,FUR,SUGAR_CANE / 2230 action points left
+      - WOOD: 1855
+    - Using island week15, completed : WOOD,GLASS,FUR,SUGAR_CANE / 2101 action points left
       - FUR: 500
       - WOOD: 546
       - QUARTZ: 1
-      - GLASS: 16
       - SUGAR_CANE: 410
-    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 10270 action points left
+      - GLASS: 18
+    - Using island week16, completed : WOOD,GLASS,FUR,FLOWER / 10257 action points left
       - FUR: 16
       - QUARTZ: 3
       - WOOD: 5075
       - FLOWER: 10
       - GLASS: 12
-    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 8513 action points left
+    - Using island week17, completed : WOOD,GLASS,FUR,RUM / 8516 action points left
       - QUARTZ: 4
       - FUR: 504
-      - RUM: 35
+      - GLASS: 24
+      - RUM: 36
       - FRUITS: 2
       - WOOD: 15031
-      - GLASS: 22
       - SUGAR_CANE: 17
-    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 17219 action points left
+    - Using island week18, completed : WOOD,GLASS,FUR,FLOWER / 17314 action points left
       - WOOD: 3055
       - FUR: 501
+      - GLASS: 24
       - FLOWER: 12
       - QUARTZ: 3
-      - GLASS: 22
-    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 10439 action points left
+    - Using island week19, completed : FUR,SUGAR_CANE,WOOD,RUM,FLOWER / 10533 action points left
       - WOOD: 3028
       - FRUITS: 5
       - FLOWER: 12
-      - RUM: 45
       - FUR: 505
       - SUGAR_CANE: 321
-    - Using island week20, completed : FUR / 520 action points left
-      - FUR: 3214
+      - RUM: 47
+    - Using island week20, completed : FUR / 530 action points left
+      - FUR: 3224
       - WOOD: 230
 
 ## Player ISP
   - Collected contracts: 21 (30.00%)
   - Detailed results:
-    - Using island week03, completed : WOOD,FUR / 156 action points left
+    - Using island week03, completed : WOOD,FUR / 159 action points left
       - WOOD: 2007
       - QUARTZ: 335
       - FUR: 103
-    - Using island week04, completed : WOOD,QUARTZ / 2941 action points left
+    - Using island week04, completed : WOOD,QUARTZ / 2763 action points left
       - QUARTZ: 100
       - WOOD: 4007
-    - Using island week05, completed : QUARTZ,FUR / 2589 action points left
+    - Using island week05, completed : QUARTZ,FUR / 2666 action points left
       - FUR: 503
       - QUARTZ: 54
-    - Using island week06, completed : none / 176 action points left
-    - Using island week07, completed : WOOD,QUARTZ / 12276 action points left
+    - Using island week06, completed : none / 185 action points left
+    - Using island week07, completed : WOOD,QUARTZ / 12299 action points left
       - WOOD: 3014
       - QUARTZ: 104
-    - Using island week08, completed : WOOD,QUARTZ / 169 action points left
+    - Using island week08, completed : WOOD,QUARTZ / 174 action points left
       - QUARTZ: 103
       - WOOD: 5032
-    - Using island week09, completed : WOOD,FLOWER,QUARTZ / 17140 action points left
+    - Using island week09, completed : WOOD,FLOWER,QUARTZ / 17105 action points left
       - WOOD: 5023
       - FLOWER: 2
       - QUARTZ: 202
-    - Using island week10, completed : none / 187 action points left
-    - Using island week11, completed : FLOWER,WOOD,QUARTZ / 7973 action points left
+    - Using island week10, completed : none / 183 action points left
+    - Using island week11, completed : FLOWER,WOOD,QUARTZ / 7999 action points left
       - FLOWER: 5
       - WOOD: 7034
       - QUARTZ: 22
-    - Using island week12, completed : QUARTZ / 125 action points left
+    - Using island week12, completed : QUARTZ / 147 action points left
       - FUR: 985
       - QUARTZ: 24
       - WOOD: 3892
-    - Using island week13, completed : none / 180 action points left
-    - Using island week14, completed : FUR / 175 action points left
+    - Using island week13, completed : none / 179 action points left
+    - Using island week14, completed : FUR / 169 action points left
       - FUR: 505
       - WOOD: 168
-    - Using island week15, completed : WOOD,FUR / 158 action points left
+    - Using island week15, completed : WOOD,FUR / 152 action points left
       - FUR: 502
       - SUGAR_CANE: 336
       - WOOD: 533
-    - Using island week16, completed : none / 189 action points left
-    - Using island week17, completed : none / 151 action points left
-      - WOOD: 13356
+    - Using island week16, completed : none / 184 action points left
+    - Using island week17, completed : none / 147 action points left
+      - WOOD: 13479
       - FUR: 394
-    - Using island week18, completed : none / 179 action points left
+    - Using island week18, completed : none / 177 action points left
       - FUR: 256
-    - Using island week19, completed : none / 188 action points left
-    - Using island week20, completed : FUR / 179 action points left
+    - Using island week19, completed : none / 187 action points left
+    - Using island week20, completed : FUR / 169 action points left
       - FUR: 400
 
 ## Player MVP
   - Collected contracts: 0 (0.00%)
   - Detailed results:
-    - Using island week03, completed : none / 29994 action points left
+    - Using island week03, completed : none / 29997 action points left
     - Using island week04, completed : none / 19995 action points left
-    - Using island week05, completed : none / 9995 action points left
-    - Using island week06, completed : none / 24996 action points left
-    - Using island week07, completed : none / 19995 action points left
-    - Using island week08, completed : none / 29996 action points left
-    - Using island week09, completed : none / 29997 action points left
-    - Using island week10, completed : none / 14996 action points left
-    - Using island week11, completed : none / 19995 action points left
-    - Using island week12, completed : none / 19994 action points left
+    - Using island week05, completed : none / 9994 action points left
+    - Using island week06, completed : none / 24997 action points left
+    - Using island week07, completed : none / 19997 action points left
+    - Using island week08, completed : none / 29995 action points left
+    - Using island week09, completed : none / 29998 action points left
+    - Using island week10, completed : none / 14995 action points left
+    - Using island week11, completed : none / 19996 action points left
+    - Using island week12, completed : none / 19996 action points left
     - Using island week13, completed : none / 14995 action points left
-    - Using island week14, completed : none / 9996 action points left
-    - Using island week15, completed : none / 9998 action points left
-    - Using island week16, completed : none / 19994 action points left
-    - Using island week17, completed : none / 29995 action points left
-    - Using island week18, completed : none / 29998 action points left
-    - Using island week19, completed : none / 19997 action points left
-    - Using island week20, completed : none / 19995 action points left
+    - Using island week14, completed : none / 9998 action points left
+    - Using island week15, completed : none / 9995 action points left
+    - Using island week16, completed : none / 19998 action points left
+    - Using island week17, completed : none / 29997 action points left
+    - Using island week18, completed : none / 29994 action points left
+    - Using island week19, completed : none / 19996 action points left
+    - Using island week20, completed : none / 19998 action points left

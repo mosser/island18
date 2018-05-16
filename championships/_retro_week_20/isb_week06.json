@@ -23,7 +23,7 @@
     "budget": 25000
   },
   "part": "Engine",
-  "time": 1526496069477,
+  "time": 1526499788401,
   "meth": "initialize"
 },{
   "data": {
@@ -31,47 +31,7 @@
     "parameters": {"direction": "S"}
   },
   "part": "Explorer",
-  "time": 1526496069478,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 5,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 0
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1526496069478,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "N"}
-  },
-  "part": "Explorer",
-  "time": 1526496069478,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "cost": 6,
-    "extras": {
-      "found": "OUT_OF_RANGE",
-      "range": 52
-    },
-    "status": "OK"
-  },
-  "part": "Engine",
-  "time": 1526496069478,
-  "meth": "takeDecision"
-},{
-  "data": {
-    "action": "echo",
-    "parameters": {"direction": "S"}
-  },
-  "part": "Explorer",
-  "time": 1526496069478,
+  "time": 1526499788401,
   "meth": "takeDecision"
 },{
   "data": {
@@ -83,12 +43,52 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1526496069478,
+  "time": 1526499788401,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "N"}
+  },
+  "part": "Explorer",
+  "time": 1526499788401,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 52
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1526499788401,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "S"}
+  },
+  "part": "Explorer",
+  "time": 1526499788401,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 6,
+    "extras": {
+      "found": "OUT_OF_RANGE",
+      "range": 0
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1526499788401,
   "meth": "takeDecision"
 },{
   "data": {"action": "stop"},
   "part": "Explorer",
-  "time": 1526496069478,
+  "time": 1526499788402,
   "meth": "takeDecision"
 },{
   "data": {
@@ -97,6 +97,6 @@
     "status": "OK"
   },
   "part": "Engine",
-  "time": 1526496069478,
+  "time": 1526499788402,
   "meth": "takeDecision"
 }]
