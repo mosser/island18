@@ -1,0 +1,42 @@
+[{
+  "data": {
+    "heading": "S",
+    "men": 21,
+    "contracts": [
+      {
+        "amount": 30,
+        "resource": "RUM"
+      },
+      {
+        "amount": 500,
+        "resource": "FUR"
+      },
+      {
+        "amount": 20,
+        "resource": "GLASS"
+      },
+      {
+        "amount": 15000,
+        "resource": "WOOD"
+      }
+    ],
+    "budget": 30000
+  },
+  "part": "Engine",
+  "time": 1526495246814,
+  "meth": "initialize"
+},{
+  "data": {"action": "stop"},
+  "part": "Explorer",
+  "time": 1526495246814,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "cost": 5,
+    "extras": {},
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1526495246814,
+  "meth": "takeDecision"
+}]
